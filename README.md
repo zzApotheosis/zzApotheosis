@@ -16,6 +16,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Python
 - C
   - GTK+-3.0
+  - GTK+-4.0
 - C++
 - Perl 5
 - Go
@@ -27,7 +28,6 @@ As a software developer, I have a decent number of programming languages in my s
 
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
-  - Parabola GNU/Linux-libre
   - Arch Linux
   - Red Hat Enterprise Linux
   - Gentoo
@@ -42,22 +42,25 @@ I have accumulated a significant amount of experience with different operating s
 ### Development Tools
 
 As a moderately experienced developer, I have gotten to experience and utilize many development tools.
-- Git
-- GNU Make
-- Jenkins
-- Maven
-- Gradle
-- Confluence
-- Jira
-- GitHub (Obviously 😉️)
-- GitLab
-- Oracle Apex
-- IntelliJ IDEA
-- Text Editors
+- Version Control Systems
+  - Git
+  - Oracle Apex
+- Build Tools
+  - GNU Autotools
+  - GNU Make
+  - Jenkins
+  - Maven
+  - Gradle
+- Agile Tools
+  - Confluence
+  - Jira
+  - GitHub (Obviously 😉️)
+  - GitLab
+- Integrated Development Environments and Text Editors
+  - IntelliJ IDEA
   - Neovim/Vim/Vi
   - Atom
   - GNU Nano
-  - Geany
   - Notepad++
   - Gedit
   - GNU Emacs
