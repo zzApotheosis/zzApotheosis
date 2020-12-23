@@ -51,7 +51,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - Jenkins
   - Maven
   - Gradle
-- Agile Tools
+- Collaborative Tools, Services, and Platforms
   - Confluence
   - Jira
   - GitHub (Obviously 😉️)
