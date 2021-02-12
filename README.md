@@ -11,13 +11,13 @@ I'm a software engineer, electrical engineer, computer scientist, firearms enthu
 ### Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
-- Java
-  - Apache Commons
-- Python
+- C++
 - C
   - GTK+-3.0
   - GTK+-4.0
-- C++
+- Python
+- Java
+  - Apache Commons
 - Perl 5
 - Go
 - Rust
