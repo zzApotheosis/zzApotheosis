@@ -16,11 +16,11 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK+-3.0
   - GTK+-4.0
 - Python
+- Rust
+- Go
+- Perl 5
 - Java
   - Apache Commons
-- Perl 5
-- Go
-- Rust
 - Lua
 - BASH and Zsh, if you count those as languages
 
