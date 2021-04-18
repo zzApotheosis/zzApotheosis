@@ -48,6 +48,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
 - Build Tools
   - GNU Autotools
   - GNU Make
+  - CMake
   - Jenkins
   - Maven
   - Gradle
