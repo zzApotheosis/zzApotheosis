@@ -46,9 +46,10 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - Git
   - Oracle Apex
 - Build Tools
+  - Meson
+  - CMake
   - GNU Autotools
   - GNU Make
-  - CMake
   - Jenkins
   - Maven
   - Gradle
