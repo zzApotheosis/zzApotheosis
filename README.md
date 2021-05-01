@@ -44,7 +44,6 @@ I have accumulated a significant amount of experience with different operating s
 As a moderately experienced developer, I have gotten to experience and utilize many development tools.
 - Version Control Systems
   - Git
-  - Oracle Apex
 - Build Tools
   - Meson
   - CMake
