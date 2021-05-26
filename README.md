@@ -16,9 +16,9 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK4
 - C++
 - Python
+- Perl 5
 - Go
 - Rust
-- Perl 5
 - Java
   - Apache Commons
 - Lua
@@ -30,12 +30,13 @@ I have accumulated a significant amount of experience with different operating s
 - GNU/Linux
   - Arch Linux
   - Red Hat Enterprise Linux
-  - Gentoo
   - Debian
   - Fedora
+  - Rocky Linux
   - Ubuntu
   - Linux Mint
   - Void Linux
+  - Gentoo
 - Solaris
 - Windows
 
@@ -58,19 +59,20 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GitHub (Obviously 😉️)
   - GitLab
 - Integrated Development Environments and Text Editors
-  - IntelliJ IDEA
   - Neovim/Vim/Vi
   - Atom
   - GNU Nano
   - Notepad++
   - Gedit
   - GNU Emacs
+  - JetBrains IntelliJ IDEA
+  - JetBrains PyCharm
 
 # Connect with me!
 
 GitHub is probably my favorite place to hang out, simply for the sake of always being exposed to new things to learn about computer science, but you can connect with me elsewhere as well!
 - Email: [zzApotheosis@gmail.com](mailto:zzApotheosis@gmail.com)
-- Discord: [zzApotheosis#1337](https://discord.com/invite/MRvacFY)
+- Discord: zzApotheosis#1337
 - Reddit: [/u/zzApotheosis](https://reddit.com/u/zzApotheosis)
 - Steam: [zzApotheosis](https://steamcommunity.com/id/zzApotheosis/)
 - Twitch: [zzApotheosis](https://twitch.tv/zzApotheosis)
