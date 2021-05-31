@@ -29,6 +29,7 @@ As a software developer, I have a decent number of programming languages in my s
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
   - Arch Linux
+  - Slackware
   - Red Hat Enterprise Linux
   - Debian
   - Fedora
