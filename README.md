@@ -4,7 +4,7 @@
 
 My name is Steven, but I often go by the moniker/alias/pseudonym/username "zzApotheosis"! If you're wondering why I picked that username of all possible choices, I learned about the word apotheosis from a rather violent, but entertaining web series called ["Madness Combat"](https://www.youtube.com/watch?v=rbitqTpQb78). I then decided to create an Xbox Live gamertag based on that word, so I tried to take "Apotheosis" but it was already taken... I slapped a "z" on the front of it to make "zApotheosis" but that was already taken too! I slapped one last "z" on the front of it to create "zzApotheosis" and that's the one I claimed successfully. That was in 2011 and I'm still sticking with it.
 
-I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, gamer, partial weeaboo, American, libertarian, and a dumbass! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
+I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
 
 ## Skill Set
 
@@ -29,15 +29,15 @@ As a software developer, I have a decent number of programming languages in my s
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
   - Arch Linux
-  - Red Hat Enterprise Linux
+  - Void Linux
   - Debian
+  - Slackware
+  - Red Hat Enterprise Linux
   - Fedora
   - Rocky Linux
   - Ubuntu
   - Linux Mint
-  - Void Linux
   - Gentoo
-  - Slackware
 - Solaris
 - Windows
 
@@ -68,6 +68,50 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GNU Emacs
   - JetBrains IntelliJ IDEA
   - JetBrains PyCharm
+
+# Personal
+
+I have always been an avid learner. I enjoy learning about anything and everything I can. But I also find time to kick back and indulge in less-productive hobbies as well! I believe a healthy mind needs periodic breaks and playtime.
+
+## Video Games
+
+These are the games I've thoroughly enjoyed over the years, in alphabetical order.
+Disclaimer: This list may not accurately reflect my current gaming interests.
+- Borderlands (All Titles)
+- Escape from Tarkov
+- Halo (All Titles)
+- Left 4 Dead 2
+- Mass Effect (All Titles)
+- Minecraft
+- NieR (All Titles)
+- Rocket League
+- Sonic the Hedgehog (All Titles)
+- Starbound
+- Stellaris
+- Super Mario (All Titles)
+- The Legend of Zelda (All Titles)
+- Tomb Raider
+
+## Anime (WEEB)
+
+I've only recently started to enjoy some anime. This is a list of anime I've seen so far:
+- Naruto
+- Naruto: Shippuden
+- The Rising of the Shield Hero
+
+## Motorcycles
+
+I've been a rider since 2018. Currently I ride a 2013 Honda CBR500R. It's a fun bike, but I'm looking to purchase a brand new liter bike when the time is right!
+
+![Cool Red Thing](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/red_thing.jpg)
+
+## Firearms
+
+Unfortunately, all of my weapons were lost in a tragic boating accident, and I regret to publicly inform everybody that due to the rapidly changing currents of the Atlantic ocean, it is extremely unlikely that those weapons will ever be recovered, except by archaeologists centuries, if not millenia from now.
+
+Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon. I assembled my own AR-15 from scratch and it shoots like a dream! I have AR-9 and AR-10 parts on the way as well, but they've been "shipping" for like 5 months now, so who knows when or if those will ever arrive?
+
+![Paper Go Brrr](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/paper_go_brrr.jpg)
 
 # Connect with me!
 
