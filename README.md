@@ -116,7 +116,7 @@ Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon. I assem
 # Connect with me!
 
 GitHub is probably my favorite place to hang out, simply for the sake of always being exposed to new things to learn about computer science, but you can connect with me elsewhere as well!
-- Email: [zzApotheosis@gmail.com](mailto:zzApotheosis@gmail.com)
+- Email: [zzApotheosis@gmail.com](mailto:zzApotheosis@gmail.com), [zzApotheosis@protonmail.com](mailto:zzApotheosis@protonmail.com)
 - Discord: zzApotheosis#1337
 - Reddit: [/u/zzApotheosis](https://reddit.com/u/zzApotheosis)
 - Steam: [zzApotheosis](https://steamcommunity.com/id/zzApotheosis/)
