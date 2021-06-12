@@ -111,6 +111,11 @@ Unfortunately, all of my weapons were lost in a tragic boating accident, and I r
 
 Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon. I assembled my own AR-15 from scratch and it shoots like a dream! I have AR-9 and AR-10 parts on the way as well, but they've been "shipping" for like 5 months now, so who knows when or if those will ever arrive?
 
+Disclaimer: Firearms are **NOT** toys and should never be considered as such. I condemn irresponsible firearms handling. [According to the National Rifle Association](https://gunsafetyrules.nra.org/), the three fundamental rules for safe firearms handling are:
+- **ALWAYS** keep the gun pointed in a safe direction
+- **ALWAYS** keep your finger off the trigger until ready to shoot
+- **ALWAYS** keep the gun unloaded until ready to use
+
 ![Paper Go Brrr](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/paper_go_brrr.jpg)
 
 # Connect with me!
