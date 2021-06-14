@@ -77,20 +77,22 @@ I have always been an avid learner. I enjoy learning about anything and everythi
 
 These are the games I've thoroughly enjoyed over the years, in alphabetical order.
 Disclaimer: This list may not accurately reflect my current gaming interests.
-- Borderlands (All Titles)
+Asterisks* denote a franchise rather than a single title.
+- Borderlands*
+- Dying Light*
 - Escape from Tarkov
-- Halo (All Titles)
+- Halo*
 - Left 4 Dead 2
-- Mass Effect (All Titles)
-- Minecraft
-- NieR (All Titles)
+- Mass Effect*
+- Minecraft*
+- NieR*
 - Rocket League
-- Sonic the Hedgehog (All Titles)
+- Sonic the Hedgehog*
 - Starbound
 - Stellaris
-- Super Mario (All Titles)
-- The Legend of Zelda (All Titles)
-- Tomb Raider
+- Super Mario*
+- The Legend of Zelda*
+- Tomb Raider*
 
 ## Anime (WEEB)
 
