@@ -13,10 +13,10 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
+- Rust
 - Python
 - Perl 5
 - Go
-- Rust
 - Java
   - Apache Commons
 - Lua
