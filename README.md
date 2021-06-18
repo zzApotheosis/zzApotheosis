@@ -77,9 +77,11 @@ These are the games I've thoroughly enjoyed over the years, in alphabetical orde
 Disclaimer: This list may not accurately reflect my current gaming interests.
 Asterisks* denote a franchise rather than a single title.
 - Borderlands*
+- Call of Duty*
 - Dying Light*
 - Escape from Tarkov
 - Halo*
+- Horizon*
 - Left 4 Dead 2
 - Mass Effect*
 - Minecraft*
@@ -90,7 +92,20 @@ Asterisks* denote a franchise rather than a single title.
 - Stellaris
 - Super Mario*
 - The Legend of Zelda*
+- The Outer Worlds
 - Tomb Raider*
+
+This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
+Asterisks* denote a franchise rather than a single title.
+- Borderlands*
+- Call of Duty*
+- Halo*
+- Mass Effect*
+- Minecraft*
+- NieR*
+- Rocket League
+- Super Mario*
+- The Legend of Zelda*
 
 ## Anime (WEEB)
 
