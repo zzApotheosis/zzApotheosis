@@ -107,6 +107,9 @@ Asterisks* denote a franchise rather than a single title.
 - Super Mario*
 - The Legend of Zelda*
 
+[#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
+![Mass Effect](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/masseffect.jpg)
+
 ## Anime (WEEB)
 
 I've only recently started to enjoy some anime. This is a list of anime I've seen so far:
