@@ -8,7 +8,7 @@ I'm a software engineer, electrical engineer, computer scientist, firearms enthu
 <details>
 <summary>Click to view</summary>
 
-### Programming Languages
+## Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - C
@@ -24,7 +24,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Lua
 - BASH and Zsh, if you count those as languages
 
-### Operating Systems
+## Operating Systems
 
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
@@ -41,7 +41,7 @@ I have accumulated a significant amount of experience with different operating s
 - Solaris
 - Windows
 
-### Development Tools
+## Development Tools
 
 As a moderately experienced developer, I have gotten to experience and utilize many development tools.
 - Version Control Systems
