@@ -5,6 +5,8 @@ My name is Steven, but I often go by the alias/username "zzApotheosis"! If you'r
 I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
 
 ## Skill Set
+<details>
+<summary>Click to view</summary>
 
 ### Programming Languages
 
@@ -67,7 +69,11 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - JetBrains IntelliJ IDEA
   - JetBrains PyCharm
 
+</details>
+
 # Personal
+<details>
+<summary>Click to view</summary>
 
 I have always been an avid learner. I enjoy learning about anything and everything I can. But I also find time to kick back and indulge in less-productive hobbies as well! I believe a healthy mind needs periodic breaks and playtime.
 
@@ -135,6 +141,8 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 - **ALWAYS** keep the gun unloaded until ready to use
 
 ![Paper Go Brrr](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/paper_go_brrr.jpg)
+
+</details>
 
 # Connect with me!
 
