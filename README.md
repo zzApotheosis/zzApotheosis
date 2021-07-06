@@ -119,6 +119,7 @@ Asterisks\* denote a franchise rather than a single title.
 ## Anime (WEEB)
 
 I've only recently started to enjoy some anime. This is a list of anime I've seen so far:
+
 Asterisks\* denote an anime I have not yet finished, whether due to the anime itself not being finished or simply not having watched every available episode.
 - The Rising of the Shield Hero\*
 - Attack on Titan\*
@@ -157,4 +158,3 @@ GitHub is probably my favorite place to hang out, simply for the sake of always 
 - Twitch: [zzApotheosis](https://twitch.tv/zzApotheosis)
 - YouTube: [zzApotheosis](https://youtube.com/zzApotheosis)
 - Twitter: [@zzApotheosis](https://twitter.com/zzApotheosis)
-
