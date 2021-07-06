@@ -1,6 +1,6 @@
 # About Me
 
-My name is Steven, but I often go by the alias/username "zzApotheosis"! If you're wondering why I picked that username of all possible choices, I learned about the word apotheosis from a rather violent, but entertaining web series called ["Madness Combat"](https://www.youtube.com/watch?v=rbitqTpQb78). I then decided to create an Xbox Live gamertag based on that word, so I tried to take "Apotheosis" but it was already taken... I slapped a "z" on the front of it to make "zApotheosis" but that was already taken too! I slapped one last "z" on the front of it to create "zzApotheosis" and that's the one I claimed successfully. That was in 2011 and I'm still sticking with it.
+My name is Steven, but I often go by the alias/username "zzApotheosis"! If you're wondering why I picked that username of all possible choices, I learned about the word apotheosis from a rather violent, but entertaining web series called ["Madness Combat"](https://www.youtube.com/watch?v=rbitqTpQb78). I then decided to create an Xbox Live gamertag based on that word, so I tried to take "Apotheosis" but it was already taken... I slapped a "z" on the front of it to make "zApotheosis" but that was already taken too. I slapped one last "z" on the front of it to create "zzApotheosis" and that's the one I claimed successfully. That was in 2011 and I'm still sticking with it.
 
 I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
 
@@ -81,37 +81,37 @@ I have always been an avid learner. I enjoy learning about anything and everythi
 
 These are the games I've thoroughly enjoyed over the years, in alphabetical order.
 Disclaimer: This list may not accurately reflect my current gaming interests.
-Asterisks* denote a franchise rather than a single title.
-- Borderlands*
-- Call of Duty*
-- Dying Light*
+Asterisks\* denote a franchise rather than a single title.
+- Borderlands\*
+- Call of Duty\*
+- Dying Light\*
 - Escape from Tarkov
-- Halo*
-- Horizon*
+- Halo\*
+- Horizon\*
 - Left 4 Dead 2
-- Mass Effect*
-- Minecraft*
-- NieR*
+- Mass Effect\*
+- Minecraft\*
+- NieR\*
 - Rocket League
-- Sonic the Hedgehog*
+- Sonic the Hedgehog\*
 - Starbound
 - Stellaris
-- Super Mario*
-- The Legend of Zelda*
+- Super Mario\*
+- The Legend of Zelda\*
 - The Outer Worlds
-- Tomb Raider*
+- Tomb Raider\*
 
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
-Asterisks* denote a franchise rather than a single title.
-- Borderlands*
-- Call of Duty*
-- Halo*
-- Mass Effect*
-- Minecraft*
-- NieR*
+Asterisks\* denote a franchise rather than a single title.
+- Borderlands\*
+- Call of Duty\*
+- Halo\*
+- Mass Effect\*
+- Minecraft\*
+- NieR\*
 - Rocket League
-- Super Mario*
-- The Legend of Zelda*
+- Super Mario\*
+- The Legend of Zelda\*
 
 [#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
 ![Mass Effect](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/masseffect.jpg)
@@ -119,9 +119,11 @@ Asterisks* denote a franchise rather than a single title.
 ## Anime (WEEB)
 
 I've only recently started to enjoy some anime. This is a list of anime I've seen so far:
+Asterisks\* denote an anime I have not yet finished, whether due to the anime itself not being finished or simply not having watched every available episode.
+- The Rising of the Shield Hero\*
+- Attack on Titan\*
 - Naruto
 - Naruto: Shippuden
-- The Rising of the Shield Hero
 
 ## Motorcycles
 
@@ -139,6 +141,7 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 - **ALWAYS** keep the gun pointed in a safe direction
 - **ALWAYS** keep your finger off the trigger until ready to shoot
 - **ALWAYS** keep the gun unloaded until ready to use
+Follow these simple rules, and nearly every firearms-related accident can be prevented.
 
 ![Paper Go Brrr](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/paper_go_brrr.jpg)
 
