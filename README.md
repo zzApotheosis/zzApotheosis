@@ -126,6 +126,10 @@ Asterisks\* denote an anime I have not yet finished, whether due to the anime it
 - Naruto
 - Naruto: Shippuden
 
+This is my personal anime hall of fame. The following list of anime are the ones I thoroughly enjoyed and highly recommend.
+- The Rising of the Shield Hero
+- Attack on Titan
+
 ## Motorcycles
 
 I've been a rider since 2018. Currently I ride a 2013 Honda CBR500R. It's a fun bike, but I'm looking to purchase a brand new liter bike when the time is right!
