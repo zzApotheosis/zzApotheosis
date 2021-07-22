@@ -15,28 +15,29 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
-- Rust
 - Python
 - Perl 5
 - Go
+- Rust
 - Java
   - Apache Commons
 - Lua
-- BASH and Zsh, if you count those as languages
+- POSIX Shells (If you count these as languages)
+  - Bourne shell
+  - BASH
+  - Zsh
 
 ## Operating Systems
 
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
   - Arch Linux
-  - Void Linux
   - Debian
-  - Slackware
-  - Red Hat Enterprise Linux
   - Fedora
   - Rocky Linux
-  - Ubuntu
-  - Linux Mint
+  - Void Linux
+  - Slackware
+  - Red Hat Enterprise Linux
   - Gentoo
 - Solaris
 - Windows
@@ -66,6 +67,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - Notepad++
   - Gedit
   - GNU Emacs
+  - Geany
   - JetBrains IntelliJ IDEA
   - JetBrains PyCharm
 
