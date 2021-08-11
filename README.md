@@ -148,6 +148,7 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 - **ALWAYS** keep the gun pointed in a safe direction
 - **ALWAYS** keep your finger off the trigger until ready to shoot
 - **ALWAYS** keep the gun unloaded until ready to use
+
 Follow these simple rules, and nearly every firearms-related accident can be prevented.
 
 ![Paper Go Brrr](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/paper_go_brrr.jpg)
