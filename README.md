@@ -19,6 +19,8 @@ As a software developer, I have a decent number of programming languages in my s
 - Perl 5
 - Go
 - Rust
+- JavaScript
+  - Node.js
 - Java
   - Apache Commons
 - Lua
