@@ -15,10 +15,12 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
-- Rust
 - Python
 - Perl 5
 - Go
+- Rust
+- JavaScript
+  - Node.js
 - Java
   - Apache Commons
 - Lua
