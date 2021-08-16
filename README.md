@@ -97,6 +97,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Minecraft\*
 - NieR\*
 - Rocket League
+- Sea of Thieves
 - Sonic the Hedgehog\*
 - Starbound
 - Stellaris
@@ -104,6 +105,7 @@ Asterisks\* denote a franchise rather than a single title.
 - The Legend of Zelda\*
 - The Outer Worlds
 - Tomb Raider\*
+- Town of Salem
 
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
 Asterisks\* denote a franchise rather than a single title.
