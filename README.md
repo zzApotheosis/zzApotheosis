@@ -15,10 +15,10 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
-- Python
 - Perl 5
-- Go
+- Python
 - Rust
+- Go
 - JavaScript
   - Node.js
 - Java
@@ -26,8 +26,8 @@ As a software developer, I have a decent number of programming languages in my s
 - Lua
 - POSIX Shells (If you count these as languages)
   - Bourne shell
-  - BASH
   - Zsh
+  - BASH
 
 ## Operating Systems
 
