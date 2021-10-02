@@ -116,6 +116,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Minecraft\*
 - NieR\*
 - Rocket League
+- Sea of Thieves
 - Super Mario\*
 - The Legend of Zelda\*
 
