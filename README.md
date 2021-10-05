@@ -72,6 +72,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - Geany
   - JetBrains IntelliJ IDEA
   - JetBrains PyCharm
+  - Eclipse
 
 </details>
 
