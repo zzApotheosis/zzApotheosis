@@ -15,8 +15,9 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
-- Perl 5
 - Python
+- Perl 5
+- Nim
 - Rust
 - Go
 - JavaScript
