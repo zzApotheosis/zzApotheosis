@@ -134,10 +134,12 @@ Asterisks\* denote an anime I have not yet finished, whether due to the anime it
 - Attack on Titan\*
 - Naruto
 - Naruto: Shippuden
+- One Piece\*
 
 This is my personal anime hall of fame. The following list of anime are the ones I thoroughly enjoyed and highly recommend.
 - The Rising of the Shield Hero
 - Attack on Titan
+- One Piece
 
 ## Motorcycles
 
