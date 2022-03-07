@@ -92,6 +92,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Call of Duty\*
 - Dying Light\*
 - Escape from Tarkov
+- Fallout\*
 - Halo\*
 - Horizon\*
 - Left 4 Dead 2
@@ -104,8 +105,10 @@ Asterisks\* denote a franchise rather than a single title.
 - Starbound
 - Stellaris
 - Super Mario\*
+- The Elder Scrolls\*
 - The Legend of Zelda\*
 - The Outer Worlds
+- The Witcher\*
 - Tomb Raider\*
 - Town of Salem
 
