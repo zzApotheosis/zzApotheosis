@@ -154,7 +154,7 @@ I've been a rider since 2018. Currently I ride a 2013 Honda CBR500R. It's a fun 
 
 Unfortunately, all of my weapons were lost in a tragic boating accident, and I regret to publicly inform everybody that due to the rapidly changing currents of the Atlantic ocean, it is extremely unlikely that those weapons will ever be recovered, except by archaeologists centuries, if not millenia from now.
 
-Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon and a Glock 17 as my standard size handgun. I purchased a Palmetto State Armory PSAK-47 GF5 as well and made some minor modifications to it and it has been such a pleasure to shoot.
+Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon and a Glock 17 as my standard size handgun. I purchased a [Palmetto State Armory PSAK-47 GF5](https://palmettostatearmory.com/ak-47/psak-47-gf5.html) as well and made some minor modifications to it and it has been such a pleasure to shoot.
 
 Disclaimer: Firearms are **NOT** toys and should never be considered as such. I condemn irresponsible firearms handling. [According to the National Rifle Association](https://gunsafetyrules.nra.org/), the three fundamental rules for safe firearms handling are:
 - **ALWAYS** keep the gun pointed in a safe direction
