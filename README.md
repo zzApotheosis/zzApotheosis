@@ -99,6 +99,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Mass Effect\*
 - Minecraft\*
 - NieR\*
+- No Man's Sky
 - Rocket League
 - Sea of Thieves
 - Sonic the Hedgehog\*
