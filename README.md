@@ -140,6 +140,7 @@ Asterisks\* denote an anime I have not yet finished, whether due to the anime it
 - Naruto: Shippuden
 - One Piece\*
 - Demon Slayer: Kimetsu no Yaiba\*
+- My Dress-Up Darling\*
 
 This is my personal anime hall of fame. The following list of anime are the ones I thoroughly enjoyed and highly recommend.
 - The Rising of the Shield Hero
