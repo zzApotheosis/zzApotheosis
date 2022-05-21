@@ -104,6 +104,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Rocket League
 - Sea of Thieves
 - Sonic the Hedgehog\*
+- Star Citizen
 - Starbound
 - Stellaris
 - Super Mario\*
@@ -124,6 +125,7 @@ Asterisks\* denote a franchise rather than a single title.
 - NieR\*
 - Rocket League
 - Sea of Thieves
+- Star Citizen
 - Super Mario\*
 - The Legend of Zelda\*
 
