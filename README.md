@@ -15,10 +15,10 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
+- Rust
+- Nim
 - Python
 - Perl 5
-- Nim
-- Rust
 - Go
 - JavaScript
   - Node.js
