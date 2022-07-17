@@ -112,6 +112,7 @@ Asterisks\* denote a franchise rather than a single title.
 - The Legend of Zelda\*
 - The Outer Worlds
 - The Witcher\*
+- Titanfall\*
 - Tomb Raider\*
 - Town of Salem
 
