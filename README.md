@@ -15,10 +15,10 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
+- Rust
+- Nim
 - Python
 - Perl 5
-- Nim
-- Rust
 - Go
 - JavaScript
   - Node.js
@@ -112,6 +112,7 @@ Asterisks\* denote a franchise rather than a single title.
 - The Legend of Zelda\*
 - The Outer Worlds
 - The Witcher\*
+- Titanfall\*
 - Tomb Raider\*
 - Town of Salem
 
@@ -130,7 +131,7 @@ Asterisks\* denote a franchise rather than a single title.
 - The Legend of Zelda\*
 
 [#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
-![Mass Effect](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/masseffect.jpg)
+![Mass Effect](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/masseffect.jpg)
 
 ## Anime (WEEB)
 
@@ -155,7 +156,7 @@ This is my personal anime hall of fame. The following list of anime are the ones
 
 I've been a rider since 2018. Currently I ride a 2013 Honda CBR500R. It's a fun bike, but I'm looking to purchase a brand new liter bike when the time is right!
 
-![Cool Red Thing](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/red_thing.jpg)
+![Cool Red Thing](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/red_thing.jpg)
 
 ## Firearms
 
@@ -170,7 +171,7 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 
 Follow these simple rules, and nearly every firearms-related accident can be prevented.
 
-![AK Make Holes](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/ak_make_holes.jpg)
+![AK Make Holes](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/ak_make_holes.jpg)
 
 </details>
 
