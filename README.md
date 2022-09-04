@@ -95,12 +95,14 @@ Asterisks\* denote a franchise rather than a single title.
 - Fallout\*
 - Halo\*
 - Horizon\*
+- League of Legends
 - Left 4 Dead 2
 - Mass Effect\*
 - Minecraft\*
 - NieR\*
 - No Man's Sky
 - Ori\*
+- Pokémon\*
 - Rocket League
 - Sea of Thieves
 - Sonic the Hedgehog\*
@@ -121,12 +123,13 @@ Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
 - Call of Duty\*
 - Halo\*
+- League of Legends
 - Mass Effect\*
 - Minecraft\*
 - NieR\*
+- Pokémon\*
 - Rocket League
 - Sea of Thieves
-- Star Citizen
 - Super Mario\*
 - The Legend of Zelda\*
 
