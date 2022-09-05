@@ -9,7 +9,7 @@ $ cat zzApotheosis.gpg | gpg --import
 On Windows, you can import it into Kleopatra or other GnuPG software you might prefer.
 
 ## Verifying your downloaded data
-If you're like me and you care about digital security, the smart thing to do would be to not just blindly trust that my GnuPG key is actually my public key and not some arbitrary malware. To be certain, use your own trusted and preferred anti-virus method to scan `zzApotheosis.gpg` and verify it is safe.
+If you're like me and you care about digital security and authenticity, the smart thing to do would be to not just blindly trust that my GnuPG key is actually my public key and not some arbitrary malware. To be certain, use your own trusted and preferred anti-virus method to scan `zzApotheosis.gpg` and verify it is safe.
 
 Additionally, I would recommend verifying the data you receive is indeed the exact same data that you think you downloaded. This goes for pretty much anything you download; it is always recommended to digitally verify the data you receive if you care about digital security. This is done by locally calculating checksums and/or hash values. On GNU/Linux/Unix-like systems, you can use this to verify my GnuPG key:
 ```
@@ -20,9 +20,9 @@ You may visually verify the locally calculated hash value is the same as the one
 $ cat zzApotheosis.gpg.sha512
 ```
 
-This is a bit different on Windows. You can calculate SHA512 hash values using PowerShell in recent versions of Windows 10:
+This is a bit different on Windows. You can calculate SHA512 hash values using PowerShell in recent versions of Windows:
 ```
 C:\> certutil -hashfile .\zzApotheosis.gpg SHA512
 ```
-And you may visually verify the locally calculated hash value is the same as the one in `zzApotheosis.gpg.sha512` by opening the text file in your preferred text editor.
+And you may visually verify the locally calculated hash value is the same as the one in `zzApotheosis.gpg.sha512` by opening the text file in your preferred text editor or terminal pager.
 
