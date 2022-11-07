@@ -93,6 +93,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Dying Light\*
 - Escape from Tarkov
 - Fallout\*
+- Final Fantasy\*
 - Halo\*
 - Horizon\*
 - League of Legends
@@ -122,6 +123,7 @@ This is my personal video game hall of fame. These titles and franchises have ha
 Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
 - Call of Duty\*
+- Final Fantasy\*
 - Halo\*
 - League of Legends
 - Mass Effect\*
