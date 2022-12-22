@@ -118,6 +118,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Titanfall\*
 - Tomb Raider\*
 - Town of Salem
+- Valheim
 
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
 Asterisks\* denote a franchise rather than a single title.
