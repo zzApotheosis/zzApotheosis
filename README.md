@@ -37,11 +37,11 @@ I have accumulated a significant amount of experience with different operating s
   - Arch Linux
   - Debian
   - Fedora
-  - Rocky Linux
-  - Void Linux
   - Slackware
-  - Red Hat Enterprise Linux
   - Gentoo
+  - Void Linux
+  - Rocky Linux
+  - Red Hat Enterprise Linux
 - Solaris
 - Windows
 
