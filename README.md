@@ -15,6 +15,7 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK3
   - GTK4
 - C++
+  - Qt5
 - Rust
 - Nim
 - Python
@@ -124,6 +125,7 @@ This is my personal video game hall of fame. These titles and franchises have ha
 Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
 - Call of Duty\*
+- Escape from Tarkov
 - Final Fantasy\*
 - Halo\*
 - League of Legends
@@ -137,11 +139,11 @@ Asterisks\* denote a franchise rather than a single title.
 - The Legend of Zelda\*
 
 [#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
-![Mass Effect](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/masseffect.jpg)
+![Mass Effect](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/masseffect.jpg)
 
 ## Anime (WEEB)
 
-I've only recently started to enjoy some anime. This is a list of anime I've seen so far:
+I've only recently started to enjoy some anime. This is a list of anime I've seen so far.
 
 Asterisks\* denote an anime I have not yet finished, whether due to the anime itself not being finished or simply not having watched every available episode.
 - The Rising of the Shield Hero\*
@@ -158,17 +160,36 @@ This is my personal anime hall of fame. The following list of anime are the ones
 - Attack on Titan
 - One Piece
 
+## TV Shows
+
+Basically everybody's got a TV show near and dear to their heart and I am no exception. Here are all of the shows I've seen.
+- Avatar: The Last Airbender
+- Avatar: The Legend of Korra
+- Breaking Bad
+- Game of Thrones
+- Arcane
+- Spongebob Squarepants
+- Dexter's Laboratory
+- Fairly Odd Parents
+
+This is my personal TV show hall of fame. The following list is the TV shows I thoroughly enjoyed and highly recommend.
+- Avatar: The Last Airbender
+- Arcane
+- Breaking Bad
+- Game of Thrones
+- Spongebob Squarepants
+
 ## Motorcycles
 
-I've been a rider since 2018. Currently I ride a 2013 Honda CBR500R. It's a fun bike, but I'm looking to purchase a brand new liter bike when the time is right!
+I've been a rider since 2018. I currently don't ride, but I used to own a 2013 Honda CBR500R. It was a fun bike! I laid it over once and got some gnarly road rash and my wrist still feels a tiny bit funky but I have no regrets. One day, I'd love to own a liter bike and I've got my eyes on Yamaha's R1.
 
-![Cool Red Thing](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/red_thing.jpg)
+![Cool Red Thing](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/red_thing.jpg)
 
 ## Firearms
 
 Unfortunately, all of my weapons were lost in a tragic boating accident, and I regret to publicly inform everybody that due to the rapidly changing currents of the Atlantic ocean, it is extremely unlikely that those weapons will ever be recovered, except by archaeologists centuries, if not millenia from now.
 
-Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon and a Glock 17 as my standard size handgun. I purchased a [Palmetto State Armory PSAK-47 GF5](https://palmettostatearmory.com/ak-47/psak-47-gf5.html) as well and made some minor modifications to it and it has been such a pleasure to shoot.
+Tinfoil-hat-jokes aside, I own a Glock 43X as my concealed carry weapon and a Glock 17 as my standard size handgun. I purchased a [Palmetto State Armory PSAK-47 GF5](https://palmettostatearmory.com/ak-47/psak-47-gf5.html) as well and made some minor modifications to it and it has been such a pleasure to shoot. I also own a Ruger 57, a 12ga Benelli Supernova, and a Bergara B-14 chambered in .30-06.
 
 Disclaimer: Firearms are **NOT** toys and should never be considered as such. I condemn irresponsible firearms handling. [According to the National Rifle Association](https://gunsafetyrules.nra.org/), the three fundamental rules for safe firearms handling are:
 - **ALWAYS** keep the gun pointed in a safe direction
@@ -177,7 +198,7 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 
 Follow these simple rules, and nearly every firearms-related accident can be prevented.
 
-![AK Make Holes](https://gitlab.com/zzapotheosis/zzapotheosis/-/raw/main/src/images/ak_make_holes.jpg)
+![AK Make Holes](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/ak_make_holes.jpg)
 
 </details>
 
