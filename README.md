@@ -4,6 +4,8 @@ My name is Steven, but I often go by the alias/username "zzApotheosis"! If you'r
 
 I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, novice gunsmith, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
 
+I suppose most folks would consider the hottest current celebrity to be their idol. As a technologist and a F/LOSS advocate, Richard Stallman, Linus Torvalds, and RDML Grace Hopper are my heroes. I highly encourage others to choose their role models wisely.
+
 # Skill Set
 <details>
 <summary>Click to view</summary>
