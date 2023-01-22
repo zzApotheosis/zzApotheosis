@@ -133,6 +133,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Pokémon\*
 - Rocket League
 - Sea of Thieves
+- Stellaris
 - Super Mario\*
 - The Legend of Zelda\*
 
