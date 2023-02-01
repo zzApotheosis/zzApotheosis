@@ -95,6 +95,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Final Fantasy\*
 - Halo\*
 - Horizon\*
+- Kingdom Hearts\*
 - League of Legends
 - Left 4 Dead 2
 - Mass Effect\*
@@ -126,6 +127,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Escape from Tarkov
 - Final Fantasy\*
 - Halo\*
+- Kingdom Hearts\*
 - League of Legends
 - Mass Effect\*
 - Minecraft\*
