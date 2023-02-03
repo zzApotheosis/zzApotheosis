@@ -133,7 +133,6 @@ Asterisks\* denote a franchise rather than a single title.
 - Minecraft\*
 - NieR\*
 - Pokémon\*
-- Rocket League
 - Sea of Thieves
 - Stellaris
 - Super Mario\*
