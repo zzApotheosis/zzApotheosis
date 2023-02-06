@@ -124,7 +124,6 @@ This is my personal video game hall of fame. These titles and franchises have ha
 Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
 - Call of Duty\*
-- Escape from Tarkov
 - Final Fantasy\*
 - Halo\*
 - Kingdom Hearts\*
