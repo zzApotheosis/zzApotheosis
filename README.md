@@ -124,6 +124,7 @@ This is my personal video game hall of fame. These titles and franchises have ha
 Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
 - Call of Duty\*
+- Fallout\*
 - Final Fantasy\*
 - Halo\*
 - Kingdom Hearts\*
@@ -135,6 +136,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Sea of Thieves
 - Stellaris
 - Super Mario\*
+- The Elder Scrolls\*
 - The Legend of Zelda\*
 
 [#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
