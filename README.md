@@ -206,9 +206,5 @@ Follow these simple rules, and nearly every firearms-related accident can be pre
 # Connect with me!
 
 GitHub is probably my favorite place to hang out, simply for the sake of always being exposed to new things to learn about computer science, but you can connect with me elsewhere as well!
+- Matrix: [@zzapotheosis:matrix.org](https://matrix.to/#/@zzapotheosis:matrix.org)
 - Discord: zzApotheosis#1337
-- Reddit: [/u/zzApotheosis](https://reddit.com/u/zzApotheosis)
-- Steam: [zzApotheosis](https://steamcommunity.com/id/zzApotheosis/)
-- Twitch: [zzApotheosis](https://twitch.tv/zzApotheosis)
-- YouTube: [zzApotheosis](https://youtube.com/zzApotheosis)
-- Twitter: [@zzApotheosis](https://twitter.com/zzApotheosis)
