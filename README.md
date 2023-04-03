@@ -21,6 +21,8 @@ As a software developer, I have a decent number of programming languages in my s
 - Rust
 - Python
 - Perl 5
+- Crystal
+- Nim
 - Java
   - Apache Commons
 - Lua
