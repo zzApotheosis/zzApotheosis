@@ -27,7 +27,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Java
   - Apache Commons
 - Lua
-- POSIX Shells (If you count these as languages)
+- Shells (If you count these as languages)
   - Bourne shell
   - Zsh
   - BASH
