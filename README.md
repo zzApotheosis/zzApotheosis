@@ -19,11 +19,11 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt5
 - Rust
+- V
+- Nim
+- Crystal
 - Python
 - Perl 5
-- Crystal
-- Nim
-- V
 - Java
   - Apache Commons
 - Lua
