@@ -23,6 +23,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Perl 5
 - Crystal
 - Nim
+- V
 - Java
   - Apache Commons
 - Lua
