@@ -19,14 +19,13 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt5
 - Rust
-- V
 - Nim
 - Crystal
+- Lua
 - Python
 - Perl 5
 - Java
   - Apache Commons
-- Lua
 - Shells (If you count these as languages)
   - Bourne shell
   - Zsh
