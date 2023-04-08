@@ -205,9 +205,3 @@ Follow these simple rules, and nearly every firearms-related accident can be pre
 ![AK Make Holes](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/ak_make_holes.jpg)
 
 </details>
-
-# Connect with me!
-
-GitHub is probably my favorite place to hang out, simply for the sake of always being exposed to new things to learn about computer science, but you can connect with me elsewhere as well!
-- Matrix: [@zzapotheosis:matrix.org](https://matrix.to/#/@zzapotheosis:matrix.org)
-- Discord: zzApotheosis#1337
