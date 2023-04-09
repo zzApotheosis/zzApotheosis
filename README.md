@@ -101,6 +101,7 @@ Asterisks\* denote a franchise rather than a single title.
 - League of Legends
 - Left 4 Dead 2
 - Mass Effect\*
+- Metroid\*
 - Minecraft\*
 - NieR\*
 - No Man's Sky
@@ -132,6 +133,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Kingdom Hearts\*
 - League of Legends
 - Mass Effect\*
+- Metroid\*
 - Minecraft\*
 - NieR\*
 - Pokémon\*
