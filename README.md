@@ -138,6 +138,7 @@ Asterisks\* denote a franchise rather than a single title.
 - NieR\*
 - Pokémon\*
 - Sea of Thieves
+- Sonic the Hedgehog\*
 - Stellaris
 - Super Mario\*
 - The Elder Scrolls\*
