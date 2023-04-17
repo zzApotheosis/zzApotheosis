@@ -126,7 +126,9 @@ Asterisks\* denote a franchise rather than a single title.
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
 Asterisks\* denote a franchise rather than a single title.
 - Borderlands\*
+- Final Fantasy\*
 - Halo\*
+- Kingdom Hearts\*
 - League of Legends
 - Mass Effect\*
 - Metroid\*
