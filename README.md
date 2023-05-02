@@ -24,6 +24,8 @@ As a software developer, I have a decent number of programming languages in my s
 - Perl 5
 - Java
   - Apache Commons
+- JavaScript
+  - Node.js
 - Shells (If you count these as languages)
   - Bourne shell
   - Zsh
