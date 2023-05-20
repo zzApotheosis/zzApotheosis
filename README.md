@@ -166,21 +166,23 @@ This is my personal anime hall of fame. The following list of anime are the ones
 ## TV Shows
 
 Basically everybody's got a TV show near and dear to their heart and I am no exception. Here are all of the shows I've seen.
+- Arcane
 - Avatar: The Last Airbender
 - Avatar: The Legend of Korra
 - Breaking Bad
-- Game of Thrones
-- Arcane
-- Spongebob Squarepants
 - Dexter's Laboratory
 - Fairly Odd Parents
+- Game of Thrones
+- Spongebob Squarepants
+- The Office
 
 This is my personal TV show hall of fame. The following list is the TV shows I thoroughly enjoyed and highly recommend.
-- Avatar: The Last Airbender
 - Arcane
+- Avatar: The Last Airbender
 - Breaking Bad
 - Game of Thrones
 - Spongebob Squarepants
+- The Office
 
 ## Motorcycles
 
