@@ -98,7 +98,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Halo\*
 - Horizon\*
 - Kingdom Hearts\*
-- League of Legends
+- League of Legends\*
 - Left 4 Dead 2
 - Mass Effect\*
 - Metroid\*
@@ -124,12 +124,12 @@ Asterisks\* denote a franchise rather than a single title.
 - Valheim
 
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
-Asterisks\* denote a franchise rather than a single title.
+Asterisks\* denote a franchise or intellectual property rather than a single title.
 - Borderlands\*
 - Final Fantasy\*
 - Halo\*
 - Kingdom Hearts\*
-- League of Legends
+- League of Legends\*
 - Mass Effect\*
 - Metroid\*
 - Minecraft\*
