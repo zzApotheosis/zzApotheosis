@@ -161,7 +161,6 @@ This is my personal anime hall of fame. The following list of anime are the ones
 - The Rising of the Shield Hero
 - Demon Slayer: Kimetsu no Yaiba
 - Attack on Titan
-- One Piece
 
 ## TV Shows
 
