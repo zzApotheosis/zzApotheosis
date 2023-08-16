@@ -2,7 +2,7 @@
 
 My name is Steven, but I often go by the alias/username "zzApotheosis"! If you're wondering why I picked that username of all possible choices, I learned about the word apotheosis from a rather violent, but entertaining web series called ["Madness Combat"](https://www.youtube.com/watch?v=rbitqTpQb78). I then decided to create an Xbox Live gamertag based on that word, so I tried to take "Apotheosis" but it was already taken... I slapped a "z" on the front of it to make "zApotheosis" but that was already taken too. I slapped one last "z" on the front of it to create "zzApotheosis" and that's the one I claimed successfully. That was in 2011 and I'm still sticking with it.
 
-I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, novice gunsmith, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I hope to pursue a Master of Science in Computer Science before I turn 30!
+I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, novice gunsmith, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in Computer Science, specializing in Computing Systems from the Georgia Institute of Technology.
 
 # Skill Set
 <details>
