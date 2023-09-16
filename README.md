@@ -43,6 +43,9 @@ I have accumulated a significant amount of experience with different operating s
   - Void Linux
   - Rocky Linux
   - Red Hat Enterprise Linux
+- BSD
+  - FreeBSD
+  - OpenBSD
 - Solaris
 - Windows
 
