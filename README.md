@@ -186,6 +186,23 @@ This is my personal TV show hall of fame. The following list is the TV shows I t
 - Spongebob Squarepants
 - The Office
 
+## Music
+
+NOTE: This section is a work-in-progress. I'll need time to remember all the gorgeous music I've heard over the years.
+
+I was one of the few blessed individuals whose parents forced them to join band/orchestra throughout my early school years even though I didn't want to. Having been exposed to musicianship from such a young age has given me a pure and deep appreciation for music which I believe can't be expressed by people who haven't experienced band, orchestra, choir, or some other organized ensemble. In my opinion, music is the greatest form of art that can be experienced.
+
+With that being said, this is a list of my favorite songs of all time.
+- Owl City - Fireflies
+- The Midnight - Lost Boy
+- Tracy Chapman - Fast Car
+
+Additionally, these are my favorite musical artists of all time.
+- Adam Young (Owl City)
+- The Midnight
+- Midnight Kids
+- The Strike
+
 ## Motorcycles
 
 I've been a rider since 2018. I currently don't ride, but I used to own a 2013 Honda CBR500R. It was a fun bike! I laid it over once and got some gnarly road rash and my wrist still feels a tiny bit funky but I have no regrets. One day, I'd love to own a liter bike and I've got my eyes on Yamaha's R1.
