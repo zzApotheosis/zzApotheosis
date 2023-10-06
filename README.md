@@ -195,6 +195,8 @@ I was one of the few blessed individuals whose parents forced them to join band/
 With that being said, this is a list of my favorite songs of all time.
 - Owl City - Fireflies
 - The Midnight - Lost Boy
+- The Midnight - America 2
+- The Midnight - Los Angeles
 - Tracy Chapman - Fast Car
 
 Additionally, these are my favorite musical artists of all time.
