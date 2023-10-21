@@ -111,6 +111,7 @@ Asterisks\* denote a franchise rather than a single title.
 - Ori\*
 - Pokémon\*
 - Rocket League
+- Rimworld
 - Sea of Thieves
 - Sonic the Hedgehog\*
 - Star Citizen
@@ -137,6 +138,7 @@ Asterisks\* denote a franchise or intellectual property rather than a single tit
 - Metroid\*
 - Minecraft\*
 - Pokémon\*
+- Rimworld
 - Sea of Thieves
 - Sonic the Hedgehog\*
 - Stellaris
