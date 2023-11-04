@@ -69,11 +69,12 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GitLab
 - Integrated Development Environments and Text Editors
   - Neovim/Vim/Vi
-  - Atom
+  - GNU Emacs
+  - KDE Kate
   - GNU Nano
+  - Atom
   - Notepad++
   - Gedit
-  - GNU Emacs
   - Geany
   - JetBrains IntelliJ IDEA
   - JetBrains PyCharm
