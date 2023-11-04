@@ -179,6 +179,7 @@ Basically everybody's got a TV show near and dear to their heart and I am no exc
 - Game of Thrones
 - Spongebob Squarepants
 - The Office
+- Parks and Recreation
 
 This is my personal TV show hall of fame. The following list is the TV shows I thoroughly enjoyed and highly recommend.
 - Arcane
@@ -187,6 +188,7 @@ This is my personal TV show hall of fame. The following list is the TV shows I t
 - Game of Thrones
 - Spongebob Squarepants
 - The Office
+- Parks and Recreation
 
 ## Music
 
@@ -200,6 +202,8 @@ With that being said, this is a list of my favorite songs of all time.
 - The Midnight - America 2
 - The Midnight - Los Angeles
 - Tracy Chapman - Fast Car
+- Cheap Trick - The Flame
+- The Strike - Through the Silence
 
 Additionally, these are my favorite musical artists of all time.
 - Adam Young (Owl City)
