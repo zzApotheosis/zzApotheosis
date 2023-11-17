@@ -12,9 +12,10 @@ I'm a software engineer, electrical engineer, computer scientist, firearms enthu
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - C
-  - GTK3
   - GTK4
+  - GTK3
 - C++
+  - Qt6
   - Qt5
 - Rust
 - Go
