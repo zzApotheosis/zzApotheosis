@@ -210,6 +210,7 @@ With that being said, this is a list of my favorite songs of all time.
 - Midnight Kids - Find Our Way (Night Drive Edit)
 - Midnight Kids - 405
 - Tom Petty - Learning to Fly
+- Coldplay - The Scientist
 
 Additionally, these are my favorite musical artists of all time.
 - Adam Young (Owl City)
