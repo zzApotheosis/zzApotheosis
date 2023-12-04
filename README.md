@@ -211,12 +211,14 @@ With that being said, this is a list of my favorite songs of all time.
 - Midnight Kids - 405
 - Tom Petty - Learning to Fly
 - Coldplay - The Scientist
+- NF & Cordae - CAREFUL
 
 Additionally, these are my favorite musical artists of all time.
 - Adam Young (Owl City)
 - The Midnight
 - Midnight Kids
 - The Strike
+- NF
 
 ## Motorcycles
 
