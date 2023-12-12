@@ -212,6 +212,7 @@ With that being said, this is a list of my favorite songs of all time.
 - Tom Petty - Learning to Fly
 - Coldplay - The Scientist
 - NF & Cordae - CAREFUL
+- deadmau5 - The Veldt
 
 Additionally, these are my favorite musical artists of all time.
 - Adam Young (Owl City)
