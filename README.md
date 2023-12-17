@@ -213,6 +213,7 @@ With that being said, this is a list of my favorite songs of all time.
 - Coldplay - The Scientist
 - NF & Cordae - CAREFUL
 - deadmau5 - The Veldt
+- Owl City - Lonely Lullaby
 
 Additionally, these are my favorite musical artists of all time.
 - Adam Young (Owl City)
