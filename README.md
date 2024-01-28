@@ -221,6 +221,7 @@ Additionally, these are my favorite musical artists of all time.
 - Midnight Kids
 - The Strike
 - NF
+- Skrillex
 
 ## Motorcycles
 
