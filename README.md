@@ -148,7 +148,7 @@ This is my personal TV show hall of fame. The following list is the TV shows I t
 
 ## Movies and Films
 
-Cinema, film, animation, and theatrical performances will always have a place in my personal appreciation of the arts. This is a list of movies and films I have enjoyed.
+Cinema, film, animation, and theatrical performances will always have a place in my personal appreciation of the arts.
 
 This is my personal movie and film hall of fame.
 - Forrest Gump (1994)
@@ -159,6 +159,8 @@ This is my personal movie and film hall of fame.
 - Weathering With You (2019)
 - Beauty and the Beast (1991)
 - Saving Private Ryan (1998)
+- The Martian (2015)
+- Wind River (2017)
 
 ## Music
 
