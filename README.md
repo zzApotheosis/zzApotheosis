@@ -92,44 +92,6 @@ I have always been an avid learner. I enjoy learning about anything and everythi
 
 ## Video Games
 
-These are the games I've thoroughly enjoyed over the years, in alphabetical order.
-Disclaimer: This list may not accurately reflect my current gaming interests.
-Asterisks\* denote a franchise rather than a single title.
-- Borderlands\*
-- Call of Duty\*
-- Dying Light\*
-- Escape from Tarkov
-- Fallout\*
-- Final Fantasy\*
-- Halo\*
-- Horizon\*
-- Kingdom Hearts\*
-- League of Legends\*
-- Left 4 Dead 2
-- Mass Effect\*
-- Metroid\*
-- Minecraft\*
-- NieR\*
-- No Man's Sky
-- Ori\*
-- Pokémon\*
-- Rocket League
-- Rimworld
-- Sea of Thieves
-- Sonic the Hedgehog\*
-- Star Citizen
-- Starbound
-- Stellaris
-- Super Mario\*
-- The Elder Scrolls\*
-- The Legend of Zelda\*
-- The Outer Worlds
-- The Witcher\*
-- Titanfall\*
-- Tomb Raider\*
-- Town of Salem
-- Valheim
-
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
 Asterisks\* denote a franchise or intellectual property rather than a single title.
 - Borderlands\*
@@ -173,16 +135,6 @@ This is my personal anime hall of fame. The following list of anime are the ones
 ## TV Shows
 
 Basically everybody's got a TV show near and dear to their heart and I am no exception. Here are all of the shows I've seen.
-- Arcane
-- Avatar: The Last Airbender
-- Avatar: The Legend of Korra
-- Breaking Bad
-- Dexter's Laboratory
-- Fairly Odd Parents
-- Game of Thrones
-- Spongebob Squarepants
-- The Office
-- Parks and Recreation
 
 This is my personal TV show hall of fame. The following list is the TV shows I thoroughly enjoyed and highly recommend.
 - Arcane
@@ -192,6 +144,21 @@ This is my personal TV show hall of fame. The following list is the TV shows I t
 - Spongebob Squarepants
 - The Office
 - Parks and Recreation
+- John Adams
+
+## Movies and Films
+
+Cinema, film, animation, and theatrical performances will always have a place in my personal appreciation of the arts. This is a list of movies and films I have enjoyed.
+
+This is my personal movie and film hall of fame.
+- Forrest Gump (1994)
+- Treasure Planet (2002)
+- Hercules (1997)
+- Mulan (1998)
+- Kimi No Na Wa (Your Name) (2016)
+- Weathering With You (2019)
+- Beauty and the Beast (1991)
+- Saving Private Ryan (1998)
 
 ## Music
 
