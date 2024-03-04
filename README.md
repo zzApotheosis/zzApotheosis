@@ -17,13 +17,12 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt6
   - Qt5
-- Rust
-- Go
-- V
-- Nim
-- Lua
 - Python
 - Perl 5
+- Lua
+- Nim
+- Rust
+- Go
 - Java
   - Apache Commons
 - JavaScript
