@@ -4,6 +4,22 @@ My name is Steven, but I often go by the alias/username "zzApotheosis"! If you'r
 
 I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, novice gunsmith, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in Computer Science, specializing in Computing Systems from the Georgia Institute of Technology.
 
+[Master Wq and the Unix master](https://blog.sanctum.geek.nz/vim-koans/)
+
+An old Unix master came to Master Wq. "I am troubled, Wq. You teach the way of Vim. vi is holy but Vim is not; its code sprawls, its features crowd memory; its binaries are vast, its behavior inconsistent. This is not the way of Unix. I fear you mislead your students. What can be done?"
+
+Master Wq nodded. "You are right," he said. "Vim is broken. Let us fix it. Shall we begin?"
+
+The old Unix master agreed, and opened a shell. He typed:
+
+```$ vi vim.c```
+
+He began to code. Master Wq watched for a while and then asked him, "Which implementation of vi are you using? Nvi? Vim? Elvis?"
+
+"I don't know," said the Unix master. "It doesn't matter."
+
+Master Wq nodded. The Unix master sat stunned for a moment and closed his document unsaved.
+
 # Skill Set
 <details>
 <summary>Click to view</summary>
