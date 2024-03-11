@@ -4,6 +4,12 @@ My name is Steven, but I often go by the alias/username "zzApotheosis"! If you'r
 
 I'm a software engineer, electrical engineer, computer scientist, firearms enthusiast, novice gunsmith, motorcycle rider, Christian, GNU/Linux/FLOSS enthusiast, sysadmin, gamer, weeb, American, moderate libertarian, and sometimes a dummy! I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in Computer Science, specializing in Computing Systems from the Georgia Institute of Technology.
 
+[Master Pope's dream](https://blog.sanctum.geek.nz/vim-koans/)
+
+Master Pope once dreamt he was an Emacs user. When he awoke, he exclaimed:
+
+"I do not know if I am Tim Pope dreaming I am an Emacs user, or an Emacs user dreaming I am Tim Pope!"
+
 [Master Wq and the Unix master](https://blog.sanctum.geek.nz/vim-koans/)
 
 An old Unix master came to Master Wq. "I am troubled, Wq. You teach the way of Vim. vi is holy but Vim is not; its code sprawls, its features crowd memory; its binaries are vast, its behavior inconsistent. This is not the way of Unix. I fear you mislead your students. What can be done?"
