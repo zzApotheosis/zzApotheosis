@@ -60,6 +60,7 @@ I have accumulated a significant amount of experience with different operating s
 - GNU/Linux
   - Arch Linux
   - Debian
+  - GNU Guix
   - Fedora
   - Slackware
   - Gentoo
