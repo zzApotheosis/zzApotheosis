@@ -41,6 +41,8 @@ As a software developer, I have a decent number of programming languages in my s
   - Qt5
 - Python
 - Perl 5
+- Lisp
+  - Emacs Lisp
 - Lua
 - Nim
 - Rust
@@ -60,7 +62,7 @@ I have accumulated a significant amount of experience with different operating s
 - GNU/Linux
   - Arch Linux
   - Debian
-  - GNU Guix
+  - GNU Guix System
   - Fedora
   - Slackware
   - Gentoo
