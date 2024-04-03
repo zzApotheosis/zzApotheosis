@@ -94,10 +94,10 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GitHub (Obviously 😉️)
   - GitLab
 - Integrated Development Environments and Text Editors
-  - Neovim/Vim/Vi
   - GNU Emacs
-  - KDE Kate
   - GNU Nano
+  - Neovim/Vim/Vi
+  - KDE Kate
   - Atom
   - Notepad++
   - Gedit
