@@ -63,10 +63,10 @@ I have accumulated a significant amount of experience with different operating s
   - Arch Linux
   - Debian
   - Fedora
+  - Rocky Linux
   - Slackware
   - Gentoo
   - Void Linux
-  - Rocky Linux
   - Red Hat Enterprise Linux
 - BSD
   - FreeBSD
