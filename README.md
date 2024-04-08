@@ -61,13 +61,13 @@ As a software developer, I have a decent number of programming languages in my s
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
   - Arch Linux
-  - Debian
   - Fedora
   - Rocky Linux
+  - Red Hat Enterprise Linux
+  - Debian
   - Slackware
   - Gentoo
   - Void Linux
-  - Red Hat Enterprise Linux
 - BSD
   - FreeBSD
   - OpenBSD
