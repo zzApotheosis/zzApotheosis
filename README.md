@@ -54,16 +54,16 @@ As a software developer, I have a decent number of programming languages in my s
 - Shells (If you count these as languages)
   - Bourne shell
   - Zsh
-  - BASH
+  - Bash
 
 ## Operating Systems
 
 I have accumulated a significant amount of experience with different operating systems.
 - GNU/Linux
-  - Arch Linux
   - Fedora
-  - Rocky Linux
+  - AlmaLinux
   - Red Hat Enterprise Linux
+  - Arch Linux
   - Debian
   - Slackware
   - Gentoo
