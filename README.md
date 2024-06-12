@@ -128,8 +128,8 @@ Asterisks\* denote a franchise or intellectual property rather than a single tit
 - Rimworld
 - Sea of Thieves
 - Sonic the Hedgehog\*
-- Stellaris
 - Stellar Blade\*
+- Stellaris
 - Super Mario\*
 - The Elder Scrolls\*
 - The Legend of Zelda\*
