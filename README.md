@@ -119,6 +119,7 @@ This is my personal video game hall of fame. These titles and franchises have ha
 Asterisks\* denote a franchise or intellectual property rather than a single title.
 - Borderlands\*
 - Halo\*
+- Helldivers\*
 - Kingdom Hearts\*
 - League of Legends\*
 - Mass Effect\*
