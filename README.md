@@ -39,13 +39,13 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt6
   - Qt5
+- Rust
 - Perl 5
 - Python
 - Lisp
   - Emacs Lisp
 - Lua
 - Nim
-- Rust
 - Go
 - Java
   - Apache Commons
