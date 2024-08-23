@@ -27,6 +27,7 @@ He began to code. Master Wq watched for a while and then asked him, "Which imple
 Master Wq nodded. The Unix master sat stunned for a moment and closed his document unsaved.
 
 # Skill Set
+
 <details>
 <summary>Click to view</summary>
 
@@ -36,17 +37,15 @@ As a software developer, I have a decent number of programming languages in my s
 - C
   - GTK4
   - GTK3
+- Rust
+- Perl 5
 - C++
   - Qt6
   - Qt5
-- Rust
-- Perl 5
 - Python
-- Lisp
-  - Emacs Lisp
+- Go
 - Lua
 - Nim
-- Go
 - Java
   - Apache Commons
 - JavaScript
