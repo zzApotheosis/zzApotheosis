@@ -54,6 +54,10 @@ As a software developer, I have a decent number of programming languages in my s
   - Bourne shell
   - Zsh
   - Bash
+- Lisp
+  - Emacs Lisp
+  - GNU Guile
+  - Scheme
 
 ## Operating Systems
 
