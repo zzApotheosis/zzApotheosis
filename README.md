@@ -55,9 +55,9 @@ As a software developer, I have a decent number of programming languages in my s
   - Zsh
   - Bash
 - Lisp
-  - Emacs Lisp
-  - GNU Guile
   - Scheme
+    - GNU Guile
+  - Emacs Lisp
 
 ## Operating Systems
 
