@@ -41,11 +41,14 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt6
   - Qt5
+- Lisp
+  - Common Lisp
+  - Scheme
+  - Emacs Lisp
 - Perl 5
 - Python
 - Go
 - Lua
-- Nim
 - Java
   - Apache Commons
 - JavaScript
@@ -54,10 +57,6 @@ As a software developer, I have a decent number of programming languages in my s
   - Bourne shell
   - Zsh
   - Bash
-- Lisp
-  - Common Lisp
-  - Scheme
-  - Emacs Lisp
 
 ## Operating Systems
 
