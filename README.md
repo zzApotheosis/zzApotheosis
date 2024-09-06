@@ -38,13 +38,13 @@ As a software developer, I have a decent number of programming languages in my s
   - GTK4
   - GTK3
 - Rust
-- C++
-  - Qt6
-  - Qt5
 - Lisp
   - Common Lisp
   - Scheme
   - Emacs Lisp
+- C++
+  - Qt6
+  - Qt5
 - Perl 5
 - Python
 - Go
