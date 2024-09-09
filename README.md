@@ -97,15 +97,10 @@ As a moderately experienced developer, I have gotten to experience and utilize m
 - Integrated Development Environments and Text Editors
   - GNU Emacs
   - GNU Nano
+  - Helix
   - Neovim/Vim/Vi
-  - KDE Kate
-  - Atom
   - Notepad++
   - Gedit
-  - Geany
-  - JetBrains IntelliJ IDEA
-  - JetBrains PyCharm
-  - Eclipse
 
 </details>
 
