@@ -99,6 +99,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GNU Nano
   - Helix
   - Neovim/Vim/Vi
+  - Zed
   - Notepad++
   - Gedit
 
