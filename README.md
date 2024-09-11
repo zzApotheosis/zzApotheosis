@@ -47,8 +47,8 @@ As a software developer, I have a decent number of programming languages in my s
   - Qt5
 - Perl 5
 - Python
-- Go
 - Lua
+- Go
 - Java
   - Apache Commons
 - JavaScript
