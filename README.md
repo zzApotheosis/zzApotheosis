@@ -95,11 +95,11 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - GitHub (Obviously 😉️)
   - GitLab
 - Integrated Development Environments and Text Editors
+  - Neovim/Vim/Vi
+  - Helix
+  - Zed
   - GNU Emacs
   - GNU Nano
-  - Helix
-  - Neovim/Vim/Vi
-  - Zed
   - Notepad++
   - Gedit
 
