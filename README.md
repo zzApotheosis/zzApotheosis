@@ -49,7 +49,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Python
 - Lua
 - Go
-- Raku
+- V
 - Java
   - Apache Commons
 - JavaScript
