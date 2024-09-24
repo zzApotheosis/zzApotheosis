@@ -37,7 +37,7 @@ As a software developer, I have a decent number of programming languages in my s
 - C
   - GTK4
   - GTK3
-- Rust
+- Zig
 - Lisp
   - Common Lisp
   - Scheme
@@ -48,6 +48,7 @@ As a software developer, I have a decent number of programming languages in my s
 - Perl 5
 - Python
 - Lua
+- Rust
 - Go
 - Java
   - Apache Commons
