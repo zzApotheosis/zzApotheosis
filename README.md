@@ -45,11 +45,11 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt6
   - Qt5
-- Perl 5
 - Python
-- Lua
 - Rust
 - Go
+- Perl 5
+- Lua
 - Java
   - Apache Commons
 - JavaScript
