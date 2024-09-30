@@ -34,15 +34,15 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 ## Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
+- Zig
 - C
   - GTK4
   - GTK3
-- Zig
+- Rust
+- Python
 - C++
   - Qt6
   - Qt5
-- Python
-- Rust
 - Go
 - Perl 5
 - Lua
