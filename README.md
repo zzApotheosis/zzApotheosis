@@ -38,6 +38,10 @@ As a software developer, I have a decent number of programming languages in my s
 - C
   - GTK4
   - GTK3
+- Lisp
+  - Common Lisp
+  - Scheme
+  - Emacs Lisp
 - Rust
 - Python
 - C++
@@ -46,10 +50,6 @@ As a software developer, I have a decent number of programming languages in my s
 - Go
 - Perl 5
 - Lua
-- Lisp
-  - Common Lisp
-  - Scheme
-  - Emacs Lisp
 - Java
   - Apache Commons
 - JavaScript
