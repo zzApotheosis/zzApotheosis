@@ -47,7 +47,6 @@ As a software developer, I have a decent number of programming languages in my s
 - C++
   - Qt6
   - Qt5
-- Go
 - Perl 5
 - Lua
 - Java
