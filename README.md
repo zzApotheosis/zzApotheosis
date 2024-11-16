@@ -139,7 +139,7 @@ Asterisks\* denote a franchise or intellectual property rather than a single tit
 - The Legend of Zelda\*
 
 [#MyShepard](https://ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
-![Mass Effect](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/masseffect.jpg)
+![Mass Effect](images/masseffect.jpg)
 
 ## Anime (WEEB)
 
@@ -224,7 +224,7 @@ Additionally, these are my favorite musical artists of all time.
 
 I've been a rider since 2018. I currently don't ride, but I used to own a 2013 Honda CBR500R. It was a fun bike! I laid it over once and got some gnarly road rash and my wrist still feels a tiny bit funky but I have no regrets. One day, I'd love to own a liter bike and I've got my eyes on Yamaha's R1.
 
-![Cool Red Thing](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/red_thing.jpg)
+![Cool Red Thing](images/red_thing.jpg)
 
 ## Firearms
 
@@ -239,6 +239,6 @@ Disclaimer: Firearms are **NOT** toys and should never be considered as such. I 
 
 Follow these simple rules, and nearly every firearms-related accident can be prevented.
 
-![AK Make Holes](https://raw.githubusercontent.com/zzApotheosis/zzApotheosis/main/src/images/ak_make_holes.jpg)
+![AK Make Holes](images/ak_make_holes.jpg)
 
 </details>
