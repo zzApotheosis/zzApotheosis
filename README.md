@@ -36,8 +36,7 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - Zig
 - C
-  - GTK4
-  - GTK3
+  - GTK
 - Lisp
   - Common Lisp
   - Scheme
@@ -45,14 +44,17 @@ As a software developer, I have a decent number of programming languages in my s
 - Rust
 - Python
 - C++
-  - Qt6
-  - Qt5
-- Perl 5
+  - Qt
+- Perl
 - Lua
 - Java
   - Apache Commons
+- HTML
+- CSS
 - JavaScript
   - Node.js
+  - Vue.js
+  - Electron
 - Shells (If you count these as languages)
   - Bourne shell
   - Zsh
@@ -61,47 +63,48 @@ As a software developer, I have a decent number of programming languages in my s
 ## Operating Systems
 
 I have accumulated a significant amount of experience with different operating systems.
-- GNU/Linux
-  - Fedora
-  - AlmaLinux
-  - Red Hat Enterprise Linux
-  - Arch Linux
-  - Debian
-  - Slackware
-  - Gentoo
-  - Void Linux
-- BSD
-  - FreeBSD
-  - OpenBSD
-- Solaris
-- Windows
+- [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
+  - [Fedora](https://fedoraproject.org/)
+  - [AlmaLinux](https://almalinux.org/)
+  - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+  - [Arch Linux](https://archlinux.org/)
+  - [Debian](https://www.debian.org/)
+  - [Slackware](http://www.slackware.com/)
+  - [Gentoo](https://www.gentoo.org/)
+  - [Void Linux](https://voidlinux.org/)
+- [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+  - [FreeBSD](https://www.freebsd.org/)
+  - [OpenBSD](https://www.openbsd.org/)
+- [Solaris](https://www.oracle.com/solaris/)
+- [Windows](https://www.google.com/search?q=trash)
 
 ## Development Tools
 
 As a moderately experienced developer, I have gotten to experience and utilize many development tools.
 - Version Control Systems
-  - Git
+  - [Git](https://git-scm.com/)
 - Build Tools
-  - Meson
-  - CMake
-  - GNU Autotools
-  - GNU Make
-  - Jenkins
-  - Maven
-  - Gradle
+  - [Meson](https://mesonbuild.com/)
+  - [CMake](https://cmake.org/)
+  - [GNU Automake](https://www.gnu.org/software/automake/)
+  - [GNU Make](https://www.gnu.org/software/make/)
+  - [Jenkins](https://www.jenkins.io/)
+  - [Maven](https://maven.apache.org/)
+  - [Gradle](https://gradle.org/)
 - Collaborative Tools, Services, and Platforms
-  - Confluence
-  - Jira
-  - GitHub (Obviously 😉️)
-  - GitLab
+  - [Confluence](https://www.atlassian.com/software/confluence)
+  - [Jira](https://www.atlassian.com/software/jira)
+  - [GitHub (Obviously 😉️)](https://github.com/)
+  - [GitLab](https://gitlab.com/)
 - Integrated Development Environments and Text Editors
-  - Neovim/Vim/Vi
-  - Helix
-  - Zed
-  - GNU Emacs
-  - GNU Nano
-  - Notepad++
-  - Gedit
+  - [Helix](https://helix-editor.com/)
+  - [Neovim/Vim/Vi](https://neovim.io/)
+  - [VSCodium (VSCode)](https://vscodium.com/)
+  - [Lapce](https://lap.dev/lapce/)
+  - [GNU Emacs](https://www.gnu.org/software/emacs/)
+  - [GNU Nano](https://www.nano-editor.org/)
+  - [Notepad++](https://notepad-plus-plus.org/)
+  - [Gedit](https://gedit-technology.github.io/apps/gedit/)
 
 </details>
 
