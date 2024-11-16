@@ -83,19 +83,21 @@ I have accumulated a significant amount of experience with different operating s
 As a moderately experienced developer, I have gotten to experience and utilize many development tools.
 - Version Control Systems
   - [Git](https://git-scm.com/)
-- Build Tools
+- Build Systems
   - [Meson](https://mesonbuild.com/)
   - [CMake](https://cmake.org/)
   - [GNU Automake](https://www.gnu.org/software/automake/)
   - [GNU Make](https://www.gnu.org/software/make/)
-  - [Jenkins](https://www.jenkins.io/)
   - [Maven](https://maven.apache.org/)
   - [Gradle](https://gradle.org/)
 - Collaborative Tools, Services, and Platforms
   - [Confluence](https://www.atlassian.com/software/confluence)
   - [Jira](https://www.atlassian.com/software/jira)
-  - [GitHub (Obviously 😉️)](https://github.com/)
+- CI/CD
   - [GitLab](https://gitlab.com/)
+  - [GitHub](https://github.com/)
+  - [Jenkins](https://www.jenkins.io/)
+  - [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository/)
 - Integrated Development Environments and Text Editors
   - [Helix](https://helix-editor.com/)
   - [Neovim/Vim/Vi](https://neovim.io/)
