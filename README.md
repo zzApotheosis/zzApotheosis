@@ -68,6 +68,7 @@ I have accumulated a significant amount of experience with different operating s
   - [AlmaLinux](https://almalinux.org/)
   - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
   - [Debian](https://www.debian.org/)
+  - [openSUSE](https://www.opensuse.org/)
   - [Arch Linux](https://archlinux.org/)
   - [Slackware](http://www.slackware.com/)
   - [Gentoo](https://www.gentoo.org/)
