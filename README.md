@@ -65,6 +65,7 @@ As a software developer, I have a decent number of programming languages in my s
 I have accumulated a significant amount of experience with different operating systems.
 - [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
   - [Fedora](https://fedoraproject.org/)
+  - [CentOS](https://www.centos.org/)
   - [AlmaLinux](https://almalinux.org/)
   - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
   - [Debian](https://www.debian.org/)
