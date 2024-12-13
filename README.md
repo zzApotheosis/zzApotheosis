@@ -35,13 +35,13 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - Zig
+- Rust
 - C
   - GTK
 - Lisp
   - Common Lisp
   - Scheme
   - Emacs Lisp
-- Rust
 - Python
 - C++
   - Qt
