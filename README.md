@@ -34,31 +34,28 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 ## Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
-- Zig
-- Rust
-- C
-  - GTK
-- Lisp
-  - Common Lisp
-  - Scheme
-  - Emacs Lisp
-- Python
-- C++
-  - Qt
-- Perl
-- Lua
-- Java
-  - Apache Commons
-- HTML
-- CSS
-- JavaScript
-  - Node.js
-  - Vue.js
-  - Electron
+- [Zig](https://ziglang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  - [GTK](https://www.gtk.org/)
+- [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+  - [Common Lisp](https://lisp-lang.org/)
+  - [Scheme](https://www.scheme.org/)
+  - [Emacs Lisp](https://www.gnu.org/software/emacs/)
+- [Python](https://www.python.org/)
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [Qt](https://www.qt.io/)
+- [Perl](https://www.perl.org/)
+- [Lua](https://www.lua.org/)
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+  - [Apache Commons](https://commons.apache.org/)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - Shells (If you count these as languages)
-  - Bourne shell
-  - Zsh
-  - Bash
+  - [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)
+  - [Zsh](https://www.zsh.org/)
+  - [Bash](https://www.gnu.org/software/bash/)
 
 ## Operating Systems
 
