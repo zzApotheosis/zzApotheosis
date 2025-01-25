@@ -40,6 +40,7 @@ As a software developer, I have a decent number of programming languages in my s
   - [GTK](https://www.gtk.org/)
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [Common Lisp](https://lisp-lang.org/)
+  - [Clojure](https://clojure.org/)
   - [Scheme](https://www.scheme.org/)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
 - [Python](https://www.python.org/)
