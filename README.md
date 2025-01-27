@@ -38,11 +38,6 @@ As a software developer, I have a decent number of programming languages in my s
 - [Rust](https://www.rust-lang.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [GTK](https://www.gtk.org/)
-- [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
-  - [Common Lisp](https://lisp-lang.org/)
-  - [Clojure](https://clojure.org/)
-  - [Scheme](https://www.scheme.org/)
-  - [Emacs Lisp](https://www.gnu.org/software/emacs/)
 - [Python](https://www.python.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Qt](https://www.qt.io/)
@@ -57,6 +52,11 @@ As a software developer, I have a decent number of programming languages in my s
   - [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)
   - [Zsh](https://www.zsh.org/)
   - [Bash](https://www.gnu.org/software/bash/)
+- [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+  - [Common Lisp](https://lisp-lang.org/)
+  - [Clojure](https://clojure.org/)
+  - [Scheme](https://www.scheme.org/)
+  - [Emacs Lisp](https://www.gnu.org/software/emacs/)
 
 ## Operating Systems
 
