@@ -34,11 +34,11 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 ## Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
-- [Zig](https://ziglang.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [GTK](https://www.gtk.org/)
 - [Python](https://www.python.org/)
+- [Zig](https://ziglang.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Qt](https://www.qt.io/)
 - [Perl](https://www.perl.org/)
