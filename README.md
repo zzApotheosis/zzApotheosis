@@ -38,6 +38,7 @@ As a software developer, I have a decent number of programming languages in my s
   - [GTK](https://www.gtk.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Qt](https://www.qt.io/)
+- [Nim](https://nim-lang.org)
 - [Rust](https://www.rust-lang.org/)
 - [Python](https://www.python.org/)
 - [Zig](https://ziglang.org/)
