@@ -34,18 +34,18 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 ## Programming Languages
 
 As a software developer, I have a decent number of programming languages in my skill set, including:
-- [Nim](https://nim-lang.org)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-  - [GTK](https://www.gtk.org/)
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [Common Lisp](https://lisp-lang.org/)
   - [Clojure](https://clojure.org/)
   - [Scheme](https://www.scheme.org/)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  - [GTK](https://www.gtk.org/)
+- [Nim](https://nim-lang.org)
+- [Python](https://www.python.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Qt](https://www.qt.io/)
 - [Rust](https://www.rust-lang.org/)
-- [Python](https://www.python.org/)
 - [Zig](https://ziglang.org/)
 - [Perl](https://www.perl.org/)
 - [Lua](https://www.lua.org/)
