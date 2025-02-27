@@ -36,9 +36,9 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [Common Lisp](https://lisp-lang.org/)
+  - [Emacs Lisp](https://www.gnu.org/software/emacs/)
   - [Clojure](https://clojure.org/)
   - [Scheme](https://www.scheme.org/)
-  - [Emacs Lisp](https://www.gnu.org/software/emacs/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [GTK](https://www.gtk.org/)
 - [Nim](https://nim-lang.org)
