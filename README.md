@@ -37,8 +37,6 @@ As a software developer, I have a decent number of programming languages in my s
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [ANSI](https://webstore.ansi.org/standards/incits/incits2261994s2008) [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
-  - [Clojure](https://clojure.org/)
-  - [Scheme](https://www.scheme.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [GTK](https://www.gtk.org/)
 - [D](https://dlang.org/)
