@@ -41,6 +41,7 @@ As a software developer, I have a decent number of programming languages in my s
   - [Scheme](https://www.scheme.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [GTK](https://www.gtk.org/)
+- [D](https://dlang.org/)
 - [Nim](https://nim-lang.org)
 - [Python](https://www.python.org/)
 - [Rust](https://www.rust-lang.org/)
