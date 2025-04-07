@@ -121,7 +121,7 @@ I have always been an avid learner. I enjoy learning about anything and everythi
 This is my personal video game hall of fame. These titles and franchises have had a serious impact on my life in one way or another.
 Asterisks\* denote a franchise or intellectual property rather than a single title.
 - Borderlands\*
-- Goddess of Victory: NIKKE\*
+- Goddess of Victory: Nikke\*
 - Halo\*
 - Helldivers\*
 - Kingdom Hearts\*
