@@ -44,8 +44,6 @@ As a software developer, I have a decent number of programming languages in my s
 - [Rust](https://www.rust-lang.org/)
 - [Python](https://www.python.org/)
 - [Zig](https://ziglang.org/)
-- [D](https://dlang.org/)
-- [Nim](https://nim-lang.org)
 - [Perl](https://www.perl.org/)
 - [Lua](https://www.lua.org/)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
