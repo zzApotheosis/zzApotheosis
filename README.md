@@ -221,9 +221,17 @@ Additionally, these are my favorite musical artists of all time.
 
 ## Motorcycles
 
-I've been a rider since 2018. I currently don't ride, but I used to own a 2013 Honda CBR500R. It was a fun bike! I laid it over once and got some gnarly road rash and my wrist still feels a tiny bit funky but I have no regrets. One day, I'd love to own a liter bike and I've got my eyes on Yamaha's R1.
+I've been a rider since 2018. I used to own a 2013 Honda CBR500R. It was a fun bike! I laid it over once and got some gnarly road rash and my wrist still feels a tiny bit funky but I have no regrets.
 
 ![Cool Red Thing](src/images/red_thing.jpg)
+
+My current bike is a 2025 Yamaha YZF-R1, in Team Yamaha Racing Blue color. I would have preferred the matte black raven color, but these bikes are insanely hard to come by so I decided to jump on the opportunity I had to
+buy it when I had the chance. The dealership even said I'm probably the luckiest guy on the face of the Earth to just walk into the dealership and see the R1 just sitting on the show room floor ready for purchase.
+Apparently, they had several people (> 10) calling the dealership about that bike in the week leading up to the day I bought it. I believe it, too; they even received a phone call about it while I was filling out the
+paperwork to buy it. But I'm extremely happy with this purchase. It's not the exact color I want, but I can always buy aftermarket fairings and parts to cusomize it how I want. This is my forever bike. I'll get aftermarket
+fairings, SC Project exhaust, and some other accessories to make it mine.
+
+TODO: I'll post a picture soon ;)
 
 ## Firearms
 
