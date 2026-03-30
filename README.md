@@ -26,6 +26,10 @@ He began to code. Master Wq watched for a while and then asked him, "Which imple
 
 Master Wq nodded. The Unix master sat stunned for a moment and closed his document unsaved.
 
+[Linus Torvalds doesn't like C++](https://harmful.cat-v.org/software/c++/linus)
+
+[RMS doesn't like C++](https://harmful.cat-v.org/software/c++/rms)
+
 # Skill Set
 
 <details>
