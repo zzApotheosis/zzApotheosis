@@ -69,7 +69,7 @@ I have accumulated a significant amount of experience with different operating s
   - [Debian](https://www.debian.org/)
   - [openSUSE](https://www.opensuse.org/)
   - [Arch Linux](https://archlinux.org/)
-  - [Slackware](http://www.slackware.com/)
+  - [Alpine Linux](https://www.alpinelinux.org/)
   - [Gentoo](https://www.gentoo.org/)
   - [Void Linux](https://voidlinux.org/)
 - [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
