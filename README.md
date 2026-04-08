@@ -66,6 +66,7 @@ I have accumulated a significant amount of experience with different operating s
   - [CentOS](https://www.centos.org/)
   - [AlmaLinux](https://almalinux.org/)
   - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+  - [GNU Guix System](https://guix.gnu.org/)
   - [Debian](https://www.debian.org/)
   - [openSUSE](https://www.opensuse.org/)
   - [Arch Linux](https://archlinux.org/)
