@@ -47,16 +47,13 @@ As a software developer, I have a decent number of programming languages in my s
 - [Perl](https://www.perl.org/)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
   - [Apache Commons](https://commons.apache.org/)
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://pubs.opengroup.org/onlinepubs/9799919799/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Qt](https://www.qt.io/)
 - [Lua](https://www.lua.org/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- Shells (If you count these as languages)
-  - [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)
-  - [Zsh](https://www.zsh.org/)
-  - [Bash](https://www.gnu.org/software/bash/)
 
 ## Operating Systems
 
