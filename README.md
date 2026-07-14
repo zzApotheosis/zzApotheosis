@@ -38,8 +38,11 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 As a software developer, I have a decent number of programming languages in my skill set, including:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [ANSI](https://webstore.ansi.org/standards/incits/incits2261994s2008) [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
+    - [Steel Bank Common Lisp](https://sbcl.org/)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
   - [Scheme](https://www.scheme.org/)
+    - [Racket](https://www.racket-lang.org/)
+    - [CHICKEN](https://www.call-cc.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Python](https://www.python.org/)
