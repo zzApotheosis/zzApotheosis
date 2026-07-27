@@ -47,7 +47,6 @@ As a software developer, I have a decent number of programming languages in my s
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Python](https://www.python.org/)
 - [Perl](https://www.perl.org/)
-- [Zig](https://ziglang.org/)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://pubs.opengroup.org/onlinepubs/9799919799/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
