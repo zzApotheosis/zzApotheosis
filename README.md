@@ -45,6 +45,7 @@ As a software developer, I have a decent number of programming languages in my s
     - [Racket](https://www.racket-lang.org/)
     - [CHICKEN](https://www.call-cc.org/)
   - [Clojure](https://clojure.org/)
+- [Haskell](https://www.haskell.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Python](https://www.python.org/)
