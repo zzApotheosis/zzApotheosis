@@ -41,26 +41,28 @@ As a software engineer, these are my favorite programming languages:
     - [Steel Bank Common Lisp](https://sbcl.org/)
     - [Embeddable Common Lisp](https://ecl.common-lisp.dev/)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
+  - [Clojure](https://clojure.org/)
+  - [Scheme](https://www.scheme.org/)
+    - [Racket](https://www.racket-lang.org/)
+    - [CHICKEN](https://www.call-cc.org/)
 - [Haskell](https://www.haskell.org/)
-- [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
-- [Python](https://www.python.org/)
+- [C](https://www.c-language.org/)
 - [Perl](https://www.perl.org/)
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://pubs.opengroup.org/onlinepubs/9799919799/)
 
 I'm fluently experienced with these languages, but they're not my favorites:
+- [Python](https://www.python.org/)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-  - This is a special case... I have many years of C++ experience, but it has grown to be so bloated with "features", it would take a regular person their entire lifetime to be considered a master at this language. C++ is no longer about efficient and performant systems programming. The first 20% of the C++ standard are good to learn since it's basically just C. Everything beyond that is an unnecessary abstraction.
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
 - [Haskell](https://www.haskell.org/)
 - [Scheme](https://www.scheme.org/)
-  - [Racket](https://www.racket-lang.org/)
-  - [CHICKEN](https://www.call-cc.org/)
 - [Clojure](https://clojure.org/)
 - [AWK](http://www.awklang.org/)
 - [Lua](https://www.lua.org/)
+- [Go](https://go.dev/)
 - [Nim](https://nim-lang.org/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
