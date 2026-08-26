@@ -41,6 +41,7 @@ As a software engineer, these are my favorite programming languages:
     - [Steel Bank Common Lisp](https://sbcl.org/)
     - [Embeddable Common Lisp](https://ecl.common-lisp.dev/)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
+  - [Hy](https://hylang.org/)
   - [Clojure](https://clojure.org/)
   - [Scheme](https://www.scheme.org/)
     - [Racket](https://www.racket-lang.org/)
