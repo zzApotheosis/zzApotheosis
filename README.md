@@ -51,7 +51,7 @@ As a software engineer, these are my favorite programming languages:
 - [Rust](https://www.rust-lang.org/)
 - [C](https://www.c-language.org/)
 - [Perl](https://www.perl.org/)
-- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://pubs.opengroup.org/onlinepubs/9799919799/)
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 
 I'm fluently experienced with these languages, but they're not my favorites:
 - [Python](https://www.python.org/)
