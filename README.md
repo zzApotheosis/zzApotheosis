@@ -13,7 +13,7 @@ compelled me to chase an ever-deeper understanding of software abstractions over
 world? What even is a pixel? How can a single processor realize the illusion of parallelism? How can a player on the other side of the country invoke a change in the state of my game?
 Rhetorical questions can only illustrate so much, even if they reveal an ever-growing lack of understanding rather than true subject matter knowledge. Computer Science is a young discipline
 of scientific theory and practical engineering, but one that has arguably touched and influenced the most lives in the past 50 years. Think of the Internet. It is a feat of engineering
-and scientific application that has absolutely usurped the foundation of modern life. Technology my personal passion. I am beyond blessed to have had the opportunity to make it a career.
+and scientific application that has absolutely usurped the foundation of modern life. Technology is my personal passion. I am beyond blessed to have had the opportunity to make it a career.
 
 I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in
 Computer Science, specializing in Computing Systems from the Georgia Institute of Technology. I expect to graduate in December 2027.
