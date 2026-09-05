@@ -59,7 +59,6 @@ As a software engineer, these are my favorite programming languages:
   - [Clojure](https://clojure.org/)
   - [Racket](https://www.racket-lang.org/)
   - [Hy](https://hylang.org/)
-- [Haskell](https://www.haskell.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C](https://www.c-language.org/)
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
