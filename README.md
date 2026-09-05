@@ -50,11 +50,11 @@ As a software engineer, these are my favorite programming languages:
 - [Haskell](https://www.haskell.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C](https://www.c-language.org/)
-- [Perl](https://www.perl.org/)
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
+- [Python](https://www.python.org/)
 
 I'm fluently experienced with these languages, but they're not my favorites:
-- [Python](https://www.python.org/)
+- [Perl](https://www.perl.org/)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
