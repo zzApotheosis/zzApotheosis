@@ -11,7 +11,7 @@ something I did in the physical world could affect what a virtual character did 
 in how software and hardware work together. Riding Epona through Hyrule Field, chasing first place in Mario Kart, and getting lost in the story of Paper Mario inspired questions that have
 stayed with me: How can a machine that understands only binary information produce color in the physical world? What is a pixel? How can a single processor create the illusion of parallelism?
 How can another player, on the other side of the country, change the state of my game? Those questions led me to computer science, a young discipline whose theories and engineering have
-transformed modern life. Technology is my personal passion, and I’m deeply grateful to have had the opportunity to make it my career.
+transformed modern life. Technology is my personal passion, and I’m beyond blessed to have had the opportunity to make it my career.
 
 I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in
 Computer Science, specializing in Computing Systems from the Georgia Institute of Technology. I expect to graduate in December 2027.
