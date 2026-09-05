@@ -5,15 +5,13 @@ rather violent, but entertaining web series called ["Madness Combat"](https://ww
 I tried to take "Apotheosis" but it was already taken... I slapped a "z" on the front of it to make "zApotheosis" but that was already taken too. I slapped one last "z" on the front of it
 to create "zzApotheosis" and that's the one I claimed successfully. That was in 2011 and I'm still sticking with it.
 
-I'm a career software engineer. The vast majority of my time is spent with loved ones or on some kind of technology project. I'm a tinkerer. My curiosity leads me to analyze something,
-invoke a change, observe the results, and evaluate the next step. My journey as a software engineer began with Nintendo, not as an employee, but as a kid. The idea that something I could
-do in the real, physical world might affect what a virtual character does on-screen was the most fascinating idea to me as a kid. That curiosity never died, even if my child-like imagination
-matured into that of an adult. Riding Epona through Hyrule Field, chasing first place in Mario Kart, and soaking up the rich story of Paper Mario were the kinds of virtual bliss that
-compelled me to chase an ever-deeper understanding of software abstractions over physical hardware. How can a machine that only understands binary information present color in the physical
-world? What even is a pixel? How can a single processor realize the illusion of parallelism? How can a player on the other side of the country invoke a change in the state of my game?
-Rhetorical questions can only illustrate so much, even if they reveal an ever-growing lack of understanding rather than true subject matter knowledge. Computer Science is a young discipline
-of scientific theory and practical engineering, but one that has arguably touched and influenced the most lives in the past 50 years. Think of the Internet. It is a feat of engineering
-and scientific application that has absolutely usurped the foundation of modern life. Technology is my personal passion. I am beyond blessed to have had the opportunity to make it a career.
+I’m a career software engineer, and most of my time is spent with loved ones or working on some kind of technology project. I’m a tinkerer: curiosity leads me to analyze something,
+change it, observe the results, and decide what to try next. My journey as a software engineer began with Nintendo—not as an employee, but as a kid. I was fascinated by the idea that
+something I did in the physical world could affect what a virtual character did on-screen. That curiosity never disappeared; my childhood imagination simply matured into a deeper interest
+in how software and hardware work together. Riding Epona through Hyrule Field, chasing first place in Mario Kart, and getting lost in the story of Paper Mario inspired questions that have
+stayed with me: How can a machine that understands only binary information produce color in the physical world? What is a pixel? How can a single processor create the illusion of parallelism?
+How can another player, on the other side of the country, change the state of my game? Those questions led me to computer science, a young discipline whose theories and engineering have
+transformed modern life. Technology is my personal passion, and I’m deeply grateful to have had the opportunity to make it my career.
 
 I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in
 Computer Science, specializing in Computing Systems from the Georgia Institute of Technology. I expect to graduate in December 2027.
