@@ -64,10 +64,10 @@ As a software engineer, these are my favorite programming languages:
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
 
-I'm fluently experienced with these languages, but they're not my favorites:
-- [Perl](https://www.perl.org/) [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+I'm fluently experienced with these languages, but they're not my favorites:  
+[Perl](https://www.perl.org/) [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
-I have familiarity with these languages, but not enough experience to be considered fluent:
+I have familiarity with these languages, but not enough experience to be considered fluent:  
 [Haskell](https://www.haskell.org/) [Scheme](https://www.scheme.org/) [Clojure](https://clojure.org/) [Hy](https://hylang.org/) [AWK](http://www.awklang.org/) [Lua](https://www.lua.org/)
 [Go](https://go.dev/) [Nim](https://nim-lang.org/) [HTML](https://en.wikipedia.org/wiki/HTML) [CSS](https://en.wikipedia.org/wiki/CSS) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
