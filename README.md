@@ -64,12 +64,23 @@ As a software engineer, these are my favorite programming languages:
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
 
-I'm fluently experienced with these languages, but they're not my favorites:  
-[Perl](https://www.perl.org/) [Java](https://dev.java/) [C++](https://isocpp.org/)
+I'm fluently experienced with these languages, but they're not my favorites:
+- [Perl](https://www.perl.org/)
+- [Java](https://dev.java/)
+- [C++](https://isocpp.org/)
 
-I have familiarity with these languages, but not enough experience to be considered fluent:  
-[Haskell](https://www.haskell.org/) [Scheme](https://www.scheme.org/) [Clojure](https://clojure.org/) [Hy](https://hylang.org/) [AWK](http://www.awklang.org/) [Lua](https://www.lua.org/)
-[Go](https://go.dev/) [Nim](https://nim-lang.org/) [HTML](https://en.wikipedia.org/wiki/HTML) [CSS](https://en.wikipedia.org/wiki/CSS) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+I have familiarity with these languages, but not enough experience to be considered fluent:
+- [Haskell](https://www.haskell.org/)
+- [Scheme](https://www.scheme.org/)
+- [Clojure](https://clojure.org/)
+- [Hy](https://hylang.org/)
+- [AWK](http://www.awklang.org/)
+- [Lua](https://www.lua.org/)
+- [Go](https://go.dev/)
+- [Nim](https://nim-lang.org/)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Operating Systems
 
@@ -109,6 +120,7 @@ As a moderately experienced developer, I have gotten to experience and utilize m
   - [Confluence](https://www.atlassian.com/software/confluence)
   - [Jira](https://www.atlassian.com/software/jira)
 - CI/CD
+  - [Codeberg](https://codeberg.org/)
   - [GitLab](https://gitlab.com/)
   - [GitHub](https://github.com/)
   - [Jenkins](https://www.jenkins.io/)
