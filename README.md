@@ -47,7 +47,11 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 
 ## Programming Languages
 
-As a software engineer, these are my favorite programming languages:
+There is no universally "best" programming language. Different languages make different trade-offs in areas such as abstraction, performance, safety, expressiveness, and ease of use,
+while the underlying machine ultimately executes only the instructions supported by its hardware or runtime environment. As a result, choosing a favorite language is necessarily
+subjective and depends largely on a programmer’s goals and way of thinking.
+
+Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. These are my favorite programming languages:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [ANSI](https://webstore.ansi.org/standards/incits/incits2261994s2008) [Common Lisp](https://common-lisp.net/)
     - [Steel Bank Common Lisp](https://sbcl.org/)
