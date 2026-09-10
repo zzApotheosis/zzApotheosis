@@ -63,15 +63,15 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Clojure](https://clojure.org/)
   - [Racket](https://www.racket-lang.org/)
   - [Hy](https://hylang.org/)
-- [Rust](https://www.rust-lang.org/)
 - [C](https://www.c-language.org/)
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
+- [Java](https://dev.java/)
 
 I'm fluently experienced with these languages, but they're not my favorites:
 - [Perl](https://www.perl.org/)
-- [Java](https://dev.java/)
 - [C++](https://isocpp.org/)
+- [Rust](https://www.rust-lang.org/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
 - [Haskell](https://www.haskell.org/)
@@ -85,6 +85,7 @@ I have familiarity with these languages, but not enough experience to be conside
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [Zig](https://ziglang.org)
 
 ## Operating Systems
 
