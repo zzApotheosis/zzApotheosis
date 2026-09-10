@@ -67,11 +67,11 @@ Over the years, I have gravitated toward certain languages because their design 
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
 - [Java](https://dev.java/)
+- [Rust](https://www.rust-lang.org/)
 
 I'm fluently experienced with these languages, but they're not my favorites:
 - [Perl](https://www.perl.org/)
 - [C++](https://isocpp.org/)
-- [Rust](https://www.rust-lang.org/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
 - [Haskell](https://www.haskell.org/)
