@@ -64,12 +64,12 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Racket](https://www.racket-lang.org/)
   - [Hy](https://hylang.org/)
 - [C](https://www.c-language.org/)
+- [Rust](https://www.rust-lang.org/)
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
-- [Java](https://dev.java/)
-- [Rust](https://www.rust-lang.org/)
 
 I'm fluently experienced with these languages, but they're not my favorites:
+- [Java](https://dev.java/)
 - [Perl](https://www.perl.org/)
 - [C++](https://isocpp.org/)
 
