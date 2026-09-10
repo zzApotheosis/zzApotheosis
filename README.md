@@ -48,7 +48,7 @@ Master Wq nodded. The Unix master sat stunned for a moment and closed his docume
 ## Programming Languages
 
 There is no universally "best" programming language. Different languages make different trade-offs in areas such as abstraction, performance, safety, expressiveness, and ease of use,
-while the underlying machine ultimately executes only the instructions supported by its hardware or runtime environment. As a result, choosing a favorite language is necessarily
+while the underlying machine ultimately executes only the instructions supported by its hardware or runtime environment. As a result, choosing a favorite language is
 subjective and depends largely on a programmer’s goals and way of thinking.
 
 Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. These are my favorite programming languages:
@@ -65,8 +65,8 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Hy](https://hylang.org/)
 - [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
-- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 - [Python](https://www.python.org/)
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 
 I'm fluently experienced with these languages, but they're not my favorites:
 - [Java](https://dev.java/)
@@ -81,6 +81,7 @@ I have familiarity with these languages, but not enough experience to be conside
 - [AWK](http://www.awklang.org/)
 - [Lua](https://www.lua.org/)
 - [Go](https://go.dev/)
+- [Dart](https://dart.dev/)
 - [Nim](https://nim-lang.org/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
