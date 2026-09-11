@@ -51,7 +51,7 @@ There is no universally "best" programming language. Different languages make di
 while the underlying machine ultimately executes only the instructions supported by its hardware or runtime environment. As a result, choosing a favorite language is
 subjective and depends largely on a programmer’s goals and way of thinking.
 
-Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. These are my favorite programming languages:
+Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. Prioritizing syntax and semantics rather than framework and library ecosystems, these are my favorite programming languages:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [ANSI](https://webstore.ansi.org/standards/incits/incits2261994s2008) [Common Lisp](https://common-lisp.net/)
     - [Steel Bank Common Lisp](https://sbcl.org/)
@@ -65,15 +65,19 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Hy](https://hylang.org/)
 - [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
+- [Haskell](https://www.haskell.org/)
 - [Python](https://www.python.org/)
-- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 
-I'm fluently experienced with these languages, but they're not my favorites:
+This is not a fully comprehensive list, but I am fluently experienced with these languages:
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
+- [C](https://www.c-language.org/)
+- [Python](https://www.python.org/)
 - [Java](https://dev.java/)
 - [Perl](https://www.perl.org/)
 - [C++](https://isocpp.org/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
+- [Julia](https://julialang.org/)
 - [Haskell](https://www.haskell.org/)
 - [Scheme](https://www.scheme.org/)
 - [Clojure](https://clojure.org/)
