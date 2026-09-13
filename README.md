@@ -60,11 +60,9 @@ Over the years, I have gravitated toward certain languages because their design 
     - [CHICKEN](https://www.call-cc.org/)
     - [GNU Guile](https://gnu.org/software/guile)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
-  - [Clojure](https://clojure.org/)
-    - `Exposure to the Java ecosystem`
   - [Racket](https://www.racket-lang.org/)
+  - [Clojure](https://clojure.org/)
   - [Hy](https://hylang.org/)
-    - `Exposure to the Python ecosystem`
 - [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Haskell](https://www.haskell.org/)
