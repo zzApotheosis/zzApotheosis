@@ -61,12 +61,13 @@ Over the years, I have gravitated toward certain languages because their design 
     - [GNU Guile](https://gnu.org/software/guile)
   - [Emacs Lisp](https://www.gnu.org/software/emacs/)
   - [Clojure](https://clojure.org/)
+    - `Exposure to the Java ecosystem`
   - [Racket](https://www.racket-lang.org/)
   - [Hy](https://hylang.org/)
+    - `Exposure to the Python ecosystem`
 - [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Haskell](https://www.haskell.org/)
-- [Python](https://www.python.org/)
 
 This is not a fully comprehensive list, but I am fluently experienced with these languages:
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
