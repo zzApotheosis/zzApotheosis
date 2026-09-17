@@ -63,7 +63,6 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Racket](https://www.racket-lang.org/)
   - [Clojure](https://clojure.org/)
   - [Hy](https://hylang.org/)
-- [C](https://www.c-language.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Haskell](https://www.haskell.org/)
 
