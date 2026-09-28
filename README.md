@@ -75,6 +75,7 @@ This is not a fully comprehensive list, but I am fluently experienced with these
 - [C++](https://isocpp.org/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
+- [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 - [Julia](https://julialang.org/)
 - [Haskell](https://www.haskell.org/)
 - [Scheme](https://www.scheme.org/)
