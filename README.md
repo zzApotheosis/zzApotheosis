@@ -166,6 +166,7 @@ Asterisks\* denote a franchise or intellectual property rather than a single tit
 - Mass Effect\*
 - Metroid\*
 - Minecraft\*
+- No Man's Sky
 - Pokémon\*
 - Sea of Thieves
 - Sonic the Hedgehog\*
