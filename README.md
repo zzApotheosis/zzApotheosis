@@ -90,6 +90,7 @@ I have familiarity with these languages, but not enough experience to be conside
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [Zig](https://ziglang.org)
+- [Tiger](https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf)
 
 ## Operating Systems
 
