@@ -16,30 +16,6 @@ transformed modern life. Technology is my personal passion, and I’m beyond ble
 I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in
 Computer Science, specializing in Computing Systems from the Georgia Institute of Technology. I expect to graduate in December 2027.
 
-[Master Pope's dream](https://blog.sanctum.geek.nz/vim-koans/)
-
-Master Pope once dreamt he was an Emacs user. When he awoke, he exclaimed:
-
-"I do not know if I am Tim Pope dreaming I am an Emacs user, or an Emacs user dreaming I am Tim Pope!"
-
-[Master Wq and the Unix master](https://blog.sanctum.geek.nz/vim-koans/)
-
-An old Unix master came to Master Wq. "I am troubled, Wq. You teach the way of Vim. vi is holy but Vim is not; its code sprawls, its features crowd memory; its binaries are vast, its behavior inconsistent. This is not the way of Unix. I fear you mislead your students. What can be done?"
-
-Master Wq nodded. "You are right," he said. "Vim is broken. Let us fix it. Shall we begin?"
-
-The old Unix master agreed, and opened a shell. He typed:
-
-```$ vi vim.c```
-
-He began to code. Master Wq watched for a while and then asked him, "Which implementation of vi are you using? Nvi? Vim? Elvis?"
-
-"I don't know," said the Unix master. "It doesn't matter."
-
-Master Wq nodded. The Unix master sat stunned for a moment and closed his document unsaved.
-
-[I don't like C++](https://harmful.cat-v.org/software/c++/)
-
 # Skill Set
 
 <details>
@@ -72,7 +48,7 @@ This is not a fully comprehensive list, but I am fluently experienced with these
 - [Python](https://www.python.org/)
 - [Java](https://dev.java/)
 - [Perl](https://www.perl.org/)
-- [C++](https://isocpp.org/)
+- [C++](https://isocpp.org/) [...](https://harmful.cat-v.org/software/c++/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
@@ -97,16 +73,16 @@ I have familiarity with these languages, but not enough experience to be conside
 I have accumulated a significant amount of experience with different operating systems.
 - [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
   - [GNU Guix System](https://guix.gnu.org/)
+  - [openSUSE](https://www.opensuse.org/)
+  - [Debian](https://www.debian.org/)
+  - [Arch Linux](https://archlinux.org/)
+  - [Alpine Linux](https://www.alpinelinux.org/)
+  - [Void Linux](https://voidlinux.org/)
   - [Fedora](https://fedoraproject.org/)
   - [CentOS](https://www.centos.org/)
   - [AlmaLinux](https://almalinux.org/)
   - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-  - [Alpine Linux](https://www.alpinelinux.org/)
-  - [Void Linux](https://voidlinux.org/)
-  - [Arch Linux](https://archlinux.org/)
-  - [Debian](https://www.debian.org/)
   - [NixOS](https://nixos.org/)
-  - [openSUSE](https://www.opensuse.org/)
   - [Gentoo](https://www.gentoo.org/)
 - [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
   - [FreeBSD](https://www.freebsd.org/)
