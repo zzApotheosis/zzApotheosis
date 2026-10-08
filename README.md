@@ -16,6 +16,10 @@ transformed modern life. Technology is my personal passion, and I’m beyond ble
 I hold a Bachelor of Science in Electrical Engineering Technology from the Metropolitan State University of Denver with a GPA of 3.37. I'm currently pursuing a Master of Science in
 Computer Science, specializing in Computing Systems from the Georgia Institute of Technology. I expect to graduate in December 2027.
 
+Free/libre and open source software (F/LOSS) is one of my personal passions. There are many definitions of this concept, but I generally recognize the writings and works published by
+the [Debian Project](https://www.debian.org/social_contract), the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html),
+the [Open Source Initiative](https://opensource.org/osd), and the [United Nations](https://opensource.un.org/en/news/united-nations-open-source-principles).
+
 # Skill Set
 
 <details>
