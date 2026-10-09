@@ -77,10 +77,10 @@ I have familiarity with these languages, but not enough experience to be conside
 I have accumulated a significant amount of experience with different operating systems.
 - [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
   - [GNU Guix System](https://guix.gnu.org/)
-  - [openSUSE](https://www.opensuse.org/)
-  - [Debian](https://www.debian.org/)
   - [Arch Linux](https://archlinux.org/)
+  - [Debian](https://www.debian.org/)
   - [Alpine Linux](https://www.alpinelinux.org/)
+  - [openSUSE](https://www.opensuse.org/)
   - [Void Linux](https://voidlinux.org/)
   - [Fedora](https://fedoraproject.org/)
   - [CentOS](https://www.centos.org/)
