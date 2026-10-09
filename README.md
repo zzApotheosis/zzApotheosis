@@ -31,7 +31,7 @@ There is no universally "best" programming language. Different languages make di
 while the underlying machine ultimately executes only the instructions supported by its hardware or runtime environment. As a result, choosing a favorite language is
 subjective and depends largely on a programmer’s goals and way of thinking.
 
-Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. Prioritizing syntax and semantics rather than framework and library ecosystems, these are my favorite programming languages:
+Over the years, I have gravitated toward certain languages because their design and idioms resonate with me. Prioritizing syntax and semantics rather than framework and library ecosystems, I have found the Lisp family of languages to be my personal favorite way to express intent with computer programming:
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
   - [ANSI](https://webstore.ansi.org/standards/incits/incits2261994s2008) [Common Lisp](https://common-lisp.net/)
     - [Steel Bank Common Lisp](https://sbcl.org/)
@@ -43,8 +43,6 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Racket](https://www.racket-lang.org/)
   - [Clojure](https://clojure.org/)
   - [Hy](https://hylang.org/)
-- [Rust](https://www.rust-lang.org/)
-- [Haskell](https://www.haskell.org/)
 
 This is not a fully comprehensive list, but I am fluently experienced with these languages:
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
@@ -55,6 +53,7 @@ This is not a fully comprehensive list, but I am fluently experienced with these
 - [C++](https://isocpp.org/) [...](https://harmful.cat-v.org/software/c++/)
 
 I have familiarity with these languages, but not enough experience to be considered fluent:
+- [Rust](https://www.rust-lang.org/)
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 - [Julia](https://julialang.org/)
 - [Haskell](https://www.haskell.org/)
