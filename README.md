@@ -44,32 +44,9 @@ Over the years, I have gravitated toward certain languages because their design 
   - [Clojure](https://clojure.org/)
   - [Hy](https://hylang.org/)
 
-This is not a fully comprehensive list, but I am fluently experienced with these languages:
-- [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
-- [C](https://www.c-language.org/)
-- [Python](https://www.python.org/)
-- [Java](https://dev.java/)
-- [Perl](https://www.perl.org/)
-- [C++](https://isocpp.org/) [...](https://harmful.cat-v.org/software/c++/)
+This is not a fully comprehensive list, but I am fluently experienced with these languages: [POSIX](https://pubs.opengroup.org/onlinepubs/9799919799/) [Shell](https://en.wikipedia.org/wiki/Shell_(computing)), [C](https://www.c-language.org/), [Python](https://www.python.org/), [Java](https://dev.java/), [Perl](https://www.perl.org/), [C++](https://isocpp.org/) [...](https://harmful.cat-v.org/software/c++/)
 
-I have familiarity with these languages, but not enough experience to be considered fluent:
-- [Rust](https://www.rust-lang.org/)
-- [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
-- [Julia](https://julialang.org/)
-- [Haskell](https://www.haskell.org/)
-- [Scheme](https://www.scheme.org/)
-- [Clojure](https://clojure.org/)
-- [Hy](https://hylang.org/)
-- [AWK](http://www.awklang.org/)
-- [Lua](https://www.lua.org/)
-- [Go](https://go.dev/)
-- [Dart](https://dart.dev/)
-- [Nim](https://nim-lang.org/)
-- [HTML](https://en.wikipedia.org/wiki/HTML)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [Zig](https://ziglang.org)
-- [Tiger](https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf)
+I have familiarity with these languages, but not enough experience to be considered fluent: [Rust](https://www.rust-lang.org/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Julia](https://julialang.org/), [Haskell](https://www.haskell.org/), [Scheme](https://www.scheme.org/), [Clojure](https://clojure.org/), [Hy](https://hylang.org/), [AWK](http://www.awklang.org/), [Lua](https://www.lua.org/), [Go](https://go.dev/), [Dart](https://dart.dev/), [Nim](https://nim-lang.org/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Zig](https://ziglang.org), [Tiger](https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf)
 
 ## Operating Systems
 
