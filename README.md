@@ -75,9 +75,9 @@ I have familiarity with these languages, but not enough experience to be conside
 
 I have accumulated a significant amount of experience with different operating systems.
 - [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
-  - [GNU Guix System](https://guix.gnu.org/)
   - [Arch Linux](https://archlinux.org/)
   - [Debian](https://www.debian.org/)
+  - [GNU Guix System](https://guix.gnu.org/)
   - [Alpine Linux](https://www.alpinelinux.org/)
   - [openSUSE](https://www.opensuse.org/)
   - [Void Linux](https://voidlinux.org/)
@@ -92,37 +92,6 @@ I have accumulated a significant amount of experience with different operating s
   - [OpenBSD](https://www.openbsd.org/)
 - [Solaris](https://www.oracle.com/solaris/)
 - [Windows](https://www.google.com/search?q=trash)
-
-## Development Tools
-
-As a moderately experienced developer, I have gotten to experience and utilize many development tools.
-- Version Control Systems
-  - [Git](https://git-scm.com/)
-- Build Systems
-  - [Meson](https://mesonbuild.com/)
-  - [CMake](https://cmake.org/)
-  - [GNU Automake](https://www.gnu.org/software/automake/)
-  - [GNU Make](https://www.gnu.org/software/make/)
-  - [Maven](https://maven.apache.org/)
-  - [Gradle](https://gradle.org/)
-- Collaborative Tools, Services, and Platforms
-  - [Confluence](https://www.atlassian.com/software/confluence)
-  - [Jira](https://www.atlassian.com/software/jira)
-- CI/CD
-  - [Codeberg](https://codeberg.org/)
-  - [GitLab](https://gitlab.com/)
-  - [GitHub](https://github.com/)
-  - [Jenkins](https://www.jenkins.io/)
-  - [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository/)
-- Integrated Development Environments and Text Editors
-  - [Helix](https://helix-editor.com/)
-  - [Neovim/Vim/Vi](https://neovim.io/)
-  - [VSCodium (VSCode)](https://vscodium.com/)
-  - [Lapce](https://lap.dev/lapce/)
-  - [GNU Emacs](https://www.gnu.org/software/emacs/)
-  - [GNU Nano](https://www.nano-editor.org/)
-  - [Notepad++](https://notepad-plus-plus.org/)
-  - [Gedit](https://gedit-technology.github.io/apps/gedit/)
 
 </details>
 
